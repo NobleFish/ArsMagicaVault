@@ -1,0 +1,12 @@
+<span id="level-15"></span>
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Animal Spells/Muto Animal Spells/LEVEL 15]]
+- [[Beast of Outlandish Size]]
+- [[Doublet of Impenetrable Silk]]
+- [[Growth of the Creeping Things]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Animal Spells/Muto Animal Spells/LEVEL 20]]
+- [[Beast of Minuscule Proportions]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Animal Spells/Muto Animal Spells/LEVEL 25]]
+- [[The Beast Remade]]
+- [[Transformation of the Ravenous Beast to the Torpid Toad]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Animal Spells/Muto Animal Spells/LEVEL 35]]
+- [[Steed of Vengeance]]

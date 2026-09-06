@@ -1,0 +1,13 @@
+<span id="general-4"></span>
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Corpus Spells/Intellego Corpus Spells/GENERAL]]
+- [[Sight of the True Form]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Corpus Spells/Intellego Corpus Spells/LEVEL 5]]
+- [[Physician's Eye]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Corpus Spells/Intellego Corpus Spells/LEVEL 10]]
+- [[Revealed Flaws of Mortal Flesh]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Corpus Spells/Intellego Corpus Spells/LEVEL 15]]
+- [[Whispers through the Black Gate]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Corpus Spells/Intellego Corpus Spells/LEVEL 20]]
+- [[The Inexorable Search]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Corpus Spells/Intellego Corpus Spells/LEVEL 30]]
+- [[The Eye of the Sage]]

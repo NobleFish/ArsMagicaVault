@@ -1,0 +1,11 @@
+
+- [[Creo Animal Spells]]
+- [[Intellego Animal Spells]]
+- [[Rego Animal]]
+- [[Rego Aquam Spells]]
+- [[Creo Imaginem Spells]]
+- [[Muto Mentem Spells]]
+- [[Rego Mentem Spells]]
+- [[Creo Terram Spells]]
+- [[Intellego Terram Spells]]
+- [[Muto Terram Spells]]

@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "83d68c4a8630108a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0573d138c1036b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b313e40c95bbbc50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Chapter 02 - The Order of Hermes.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 02 - The Order of Hermes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca6d35dc6d821a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0264df3d67fc528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9db7c8158c3ef98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17bc68c5b4730e41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e0953a28bf7d694",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fff5e14902ec17a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4b601de0680521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b0aaa4232eb4d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9c06b493193fdb2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d1b6efc05e216950",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bf7eef7722c15a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9740927c68aaf7f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b313e40c95bbbc50",
+  "lastOpenFiles": [
+    "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Chapter 01 - Introduction.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Chapter 02 - The Order of Hermes.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/The Code of Hermes.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The History of the Order/The History of the Order.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Houses of Hermes/The Houses of Hermes.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/The Order and Society.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/Tribunals.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Covenants.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Introduction.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Other Wizards.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Magical Items.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Cities.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Nobility.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/The Church.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Peasants.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Attribution.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/Regional Tribunals.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/The Grand Tribunal.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Oath - Lex Hermae.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Apprentices.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Scrying.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Magical Creatures.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Molesting the Faeries.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Dealing with Demons.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Interfering with Mundanes.md",
+    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Tribunals.md",
+    "Houses of Hermes - True Lineages/Chapter 05 - True Lineages Timeline",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Symbols/Wolves",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Varieties of Ghost/Animals",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Styles of Certamen/Laquerius",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Specialist Roles/Physicians",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/The House After Tremere",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/The Final Founder",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/Mortal Affairs",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Structure/The Role of the Exarchs",
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Structure/The Role of Experienced Magi"
+  ]
+}

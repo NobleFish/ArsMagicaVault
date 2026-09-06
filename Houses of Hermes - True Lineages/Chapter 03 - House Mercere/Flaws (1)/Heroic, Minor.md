@@ -1,0 +1,1 @@
+*Heroic Personality Tragic (Characteristic)*

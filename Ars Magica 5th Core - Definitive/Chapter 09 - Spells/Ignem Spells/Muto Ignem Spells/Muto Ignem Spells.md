@@ -1,0 +1,12 @@
+<span id="level-5-19"></span>
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Ignem Spells/Muto Ignem Spells/LEVEL 5]]
+- [[The Many-hued Conflagration]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Ignem Spells/Muto Ignem Spells/LEVEL 10]]
+- [[Show of the Flames and Smoke]]
+- [[Hornet Fire]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Ignem Spells/Muto Ignem Spells/LEVEL 20]]
+- [[Prison of Flames]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Ignem Spells/Muto Ignem Spells/LEVEL 25]]
+- [[Trapping the Fire]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Ignem Spells/Muto Ignem Spells/LEVEL 35]]
+- [[Flames of Sculpted Ice]]

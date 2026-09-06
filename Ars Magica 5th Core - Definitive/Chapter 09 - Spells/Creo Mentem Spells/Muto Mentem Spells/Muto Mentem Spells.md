@@ -1,0 +1,10 @@
+<span id="level-4-1"></span>
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Creo Mentem Spells/Muto Mentem Spells/LEVEL 4]]
+- [[Recollection of Memories Never Quite Lived]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Creo Mentem Spells/Muto Mentem Spells/LEVEL 30]]
+- [[Mind of the Beast]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Creo Mentem Spells/Muto Mentem Spells/LEVEL 35]]
+- [[Past of Another]]
+- [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Creo Mentem Spells/Muto Mentem Spells/LEVEL 40]]
+- [[Inmost Companion]]
+- [[Vision of the Haunting Spirits]]

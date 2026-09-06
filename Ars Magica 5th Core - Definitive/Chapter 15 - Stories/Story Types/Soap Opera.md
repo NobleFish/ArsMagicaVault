@@ -1,0 +1,20 @@
+Almost any long-running saga develops elements of soap opera, as the
+characters develop histories with each other. These sorts of story work
+well at all levels of power, because powerful magi have good reasons not
+to intervene with brute power when their friends are involved, and even
+if they do, then the consequences of their actions simply give rise to
+more soap operatic complications.
+
+'Soap opera' does not mean that the stories are all about the adulteries
+of covenfolk, although some may be. It can include the ongoing
+relationship with a whimsical faerie queen, delicate negotiations with a
+dragon, and repeated battles with a demon who has injured the covenant
+in the past. Essentially, a soap opera story is one where the characters
+are constrained by the results of the past and their plans for the
+future.
+
+Antagonists details a number of characters who would have ambiguous and
+difficult relations with player characters, and who could play an
+important part in soap-opera stories.
+
+<span id="story-ideas"></span>
