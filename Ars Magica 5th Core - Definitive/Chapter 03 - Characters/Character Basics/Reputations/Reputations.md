@@ -26,10 +26,6 @@ the character. If the character's Reputation is largely accurate, so is
 what the person has heard. Conversely, a largely underserved Reputation
 brings lots of false beliefs with it.
 
-Reputations can change over time. See the Long-Term Events chapter, page
-<a
-href="Ars_Magica_Definitive_Edition,_Chapter_Ten:_Long-Term_Events#Changing_Reputations"
-class="wikilink" title="386">386</a>, for details.
+Reputations can change over time. See the [[Chapter 10 - Long-Term Events|Long-Term Events]] chapter for details.
 
-<span id="reputation-ease-factors"></span>
 - [[Reputation Ease Factors]]

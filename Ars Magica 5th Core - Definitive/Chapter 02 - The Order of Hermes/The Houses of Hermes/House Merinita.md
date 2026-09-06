@@ -42,9 +42,8 @@ She is one of only two members of the covenant of Mimizan, and is
 rumored to lead a Mystery Cult that is not part of House Merinita
 (***see Faith & Flame, pages 29 and 64**'').
 
-***House Merinita is a Mystery Cult, and magi of Merinita are all
-initiated into the Outer Mystery of Faerie Magic (see <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Merinita_—_Faerie_Magic"
-class="wikilink" title="page 236">page 236</a>).***
+House Merinita is a Mystery Cult, and magi of Merinita are all
+initiated into the Outer Mystery of Faerie Magic. See More: [[Merinita — Faerie Magic]]
 
-TODO:: Fix Links
+[[TODO]] Fix link to Guardians of the Forest, The Sundered Eagle, and Faith and Flame
+[[TODO]] Link to correct house of hermes book as "See More"

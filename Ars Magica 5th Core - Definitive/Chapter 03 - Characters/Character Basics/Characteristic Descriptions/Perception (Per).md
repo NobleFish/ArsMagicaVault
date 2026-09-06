@@ -5,4 +5,3 @@ you roll Perception when checking various Knowledges, to see if you have
 insight into a certain fact or concept. Perception is important for
 Abilities such as Awareness, Hunt, and Folk Ken.
 
-<span id="strength-str"></span>

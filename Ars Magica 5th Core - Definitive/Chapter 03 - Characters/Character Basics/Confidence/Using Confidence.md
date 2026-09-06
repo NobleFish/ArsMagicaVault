@@ -11,4 +11,4 @@ are not recovered.
 Confidence may not be spent on rolls which represent a whole season's
 activities, such as rolls for studying from vis.
 
-<span id="getting-new-confidence-points"></span>
+

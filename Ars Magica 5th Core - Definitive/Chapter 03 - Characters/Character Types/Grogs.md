@@ -22,8 +22,7 @@ risk, while with a companion or magus you will probably want to be more
 cautious. Of course, it's also fun to play a grog who debates with the
 magus about the wisdom of staying to face a dragon.
 
-Grogs are often generated from the grog templates, starting on
-<a href="#Grog_Templates" class="wikilink" title="page 31">page 31</a>.
+Grogs are often generated from the grog templates. 
 They may be created by detailed character creation, but should have no
 Major Virtues or Flaws, and no more than three Minor Flaws, balanced by
 an equal number of Minor Virtues. In addition, grogs should not have
@@ -31,4 +30,4 @@ Story Flaws, as they are supposed to be minor characters. Finally, grogs
 can never have The Gift. A character with The Gift is too important to
 be a grog.
 
-<span id="character-basics"></span>
+Grog Templates: [[Grog Templates]]

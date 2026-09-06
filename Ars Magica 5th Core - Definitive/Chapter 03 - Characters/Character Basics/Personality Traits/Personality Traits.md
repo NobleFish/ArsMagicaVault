@@ -6,9 +6,7 @@ creation, although there are a few specific rules that require
 Personality Trait rolls.
 
 For grogs, they are more significant. As grogs are often shared between
-players, or at least played rarely (see Troupe-Style Roleplaying on <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Sixteen:_Sagas#Troupe-Style_Roleplaying"
-class="wikilink" title="page 528">page 528</a>), the numbers attached to
+players, or at least played rarely (see [[Troupe-Style Roleplaying]]), the numbers attached to
 Personality Traits can be used as a concrete guide to playing the
 character. They can be positive or negative, and normally range between
 +3 and -3, although there are exceptions. A Minor Personality Flaw (see
@@ -23,6 +21,9 @@ you may treat the numbers simply as a guide to roleplaying. If you do
 roll them, add nothing but the Personality Trait, and roll a stress die.
 Suggested Ease Factors are found on the table
 
-<span id="changing-personality-traits"></span>
 - [[Changing Personality Traits]]
 - [[Personality Rolls]]
+
+
+[[TODO]] Include Community Gloss : https://www.redcap.org/page/Ars_Magica_Definitive_Edition,_Chapter_Three:_Characters
+

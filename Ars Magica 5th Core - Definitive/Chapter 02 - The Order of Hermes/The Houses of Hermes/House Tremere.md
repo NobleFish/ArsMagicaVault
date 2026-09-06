@@ -14,9 +14,7 @@ outside. Certamen, a safe method of magical dueling between magi, was
 invented by Tremere the Founder, and his House retains a great deal of
 interest in it.
 
-In addition, Tremere magi hold their filii's voting sigils (***see <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Sigils"
-class="wikilink" title="page 224">page 224</a>***) until the filius
+In addition, Tremere magi hold their filii's voting sigils (***see [[Sigils]]**) until the filius
 beats the parens in certamen, or until the parens dies. If a Tremere
 magus who does not hold his own sigil trains an apprentice, the new
 magus's sigil is held by the parens of the training magus, assuming that
@@ -51,4 +49,5 @@ Forests, <a
 href="Guardians_of_the_Forest:_The_Rhine_Tribunal_Open_Content#Stentorius"
 class="wikilink" title="page 84">page 84</a>**'').
 
-TODO:: Fix Links
+[[TODO]] Fix links to Against the Dark and Guardians of the forest.
+[[TODO]] Link to correct house of hermes book as "See More"

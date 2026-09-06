@@ -3,4 +3,3 @@ objects accurately and skillfully. It includes hand-eye coordination,
 fine motor control, and bodily grace. Dexterity also helps determine how
 well your character swings a sword or throws a knife.
 
-<span id="quickness-qik"></span>

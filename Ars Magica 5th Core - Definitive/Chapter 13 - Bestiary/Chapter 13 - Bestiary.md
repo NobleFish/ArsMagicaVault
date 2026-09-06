@@ -1,5 +1,3 @@
-# Chapter 13 - Bestiary
-
 ## Contents
 
 - [[Ars Magica 5th Core - Definitive/Chapter 13 - Bestiary/Introduction]]

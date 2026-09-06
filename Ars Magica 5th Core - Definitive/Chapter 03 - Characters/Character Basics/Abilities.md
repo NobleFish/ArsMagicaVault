@@ -1,8 +1,6 @@
 Abilities are a character's learned skills. They usually do increase
 during the course of a saga. Characters in **Ars Magica** can choose
-from a wide range of Abilities, listed in the Abilities chapter starting
-on <a href="Ars_Magica_Definitive_Edition,_Chapter_Five:_Abilities"
-class="wikilink" title="page 157">page 157</a>, which are divided into
+from a wide range of Abilities, listed in the [[Chapter 05 - Abilities|Abilities]] chapter, which are divided into
 five types: General Abilities, which can be learned by anyone, and
 Academic Abilities, Arcane Abilities, Martial Abilities, and
 Supernatural Abilities. A character can only learn Academic, Arcane, or
@@ -17,10 +15,6 @@ describe other ways to access them. Unless a character has a feature
 that specifically says she can learn a Supernatural Ability, she cannot.
 
 Finally, Spell Mastery Abilities are only available to Hermetic magi,
-and are described on <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Five:_Abilities#Spell_Mastery_Abilities"
-class="wikilink" title="page 158">page 158</a> and <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Spell_Mastery"
-class="wikilink" title="page 225">page 225</a>.
+and are described in [[Spell Mastery Abilities]] and [[Spell Mastery]]
 
-<span id="personality-traits"></span>
+

@@ -12,4 +12,3 @@ lesser Tribunals. In addition, it is the only Tribunal with authority
 over the whole Order, and thus the forum where inter-Tribunal disputes
 must be settled.
 
-TODO:: Fix Links

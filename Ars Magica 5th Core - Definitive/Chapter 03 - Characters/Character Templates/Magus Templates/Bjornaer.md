@@ -73,4 +73,4 @@ Bjornaer, there is no particular reason for your character to have it.
 Note that Quiet and Subtle Magic allow the magus to cast in his
 heartbeast form without any penalty.
 
-<span id="bonisagus"></span>
+

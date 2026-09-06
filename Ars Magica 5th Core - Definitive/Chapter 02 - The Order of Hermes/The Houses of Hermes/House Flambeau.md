@@ -31,4 +31,5 @@ her great power. She is rarely seen outside her tower these days, but is
 a master of Ignem and still has a firm grip on the direction of her
 covenant.
 
-TODO:: Fix Links
+[[TODO]] Fix link to Faith and Flame and Lion on Lily book
+[[TODO]] Link to correct house of hermes book as "See More"

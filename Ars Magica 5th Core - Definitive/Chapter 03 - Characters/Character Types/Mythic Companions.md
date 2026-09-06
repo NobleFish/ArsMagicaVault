@@ -20,4 +20,4 @@ at the end of this chapter, and many Ars Magica supplements include
 guidelines for further specific types. You may also create your own type
 of Mythic Companion, in cooperation with the troupe.
 
-<span id="grogs"></span>
+Additional Information : [[Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Mythic Companions|Mythic Companions]]

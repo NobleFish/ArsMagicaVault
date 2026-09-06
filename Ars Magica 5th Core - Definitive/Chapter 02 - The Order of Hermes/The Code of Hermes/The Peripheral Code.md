@@ -20,8 +20,7 @@ are, by tradition, granted to those who kill him, powerful magi are
 often interested in helping to hunt down the offenders.
 
 Much more information about the Peripheral Code and its enforcement can
-be found in *Houses of Hermes: True Lineages*, starting from ..
+be found in *Houses of Hermes: True Lineages*, in chapters...
 
-TODO:: Fix Links
-
+[[TODO]] Fix link to HoH True Lineages and chapter location
 

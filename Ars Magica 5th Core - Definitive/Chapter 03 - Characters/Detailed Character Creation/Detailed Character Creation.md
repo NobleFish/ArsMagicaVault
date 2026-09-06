@@ -6,7 +6,6 @@ Muslim scholar exploring western Europe, or a werewolf seeking a cure
 for his curse. A grog can be any type of warrior, or a member of the
 covenant staff, such as a washerwoman, butler, or stablehand.
 
-<span id="detailed-character-creation-summary"></span>
 - [[Detailed Character Creation Summary]]
 - [[Starting Character Age]]
 - [[Child Characters]]

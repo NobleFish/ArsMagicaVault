@@ -53,4 +53,3 @@ regards himself as superior to just about anyone, unless you change the
 Major Personality Flaw, and doesn't have the Abilities to interact well
 with equals.
 
-<span id="the-priest"></span>

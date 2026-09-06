@@ -30,8 +30,7 @@ The Divine</a>), a magus famous for his Christian devotion and sanctity,
 is generally said to have been a member of House Criamon.
 
 This House is a Mystery Cult, and the Mystery at the heart of the cult
-is the <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Criamon_—_The_Enigma"
-class="wikilink" title="Enigma">Enigma</a>.
+is the Enigma. See More: [[Criamon — The Enigma]]
 
-TODO:: Fix Links
+[[TODO]] Fix links to Realms of Power The Divine
+

@@ -5,4 +5,3 @@ the will to live. Spellcasting relies on Stamina. Stamina also measures
 someone's ability to carry a load for an extended period, ignore
 fatigue, and withstand wounds.
 
-<span id="presence-pre"></span>

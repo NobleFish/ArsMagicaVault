@@ -22,4 +22,3 @@ following that they managed:
 Typical characters should gain two or three Confidence Points per
 session.
 
-<span id="raising-confidence-score"></span>

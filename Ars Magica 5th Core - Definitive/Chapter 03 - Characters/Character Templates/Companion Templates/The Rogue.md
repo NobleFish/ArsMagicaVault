@@ -42,4 +42,3 @@ moving the numbers in Characteristics and Abilities, you can turn him
 into a charmer with some ability in stealth. Don't forget to change the
 Great Characteristic and Puissant Ability Virtues if you do this.
 
-<span id="the-witch"></span>

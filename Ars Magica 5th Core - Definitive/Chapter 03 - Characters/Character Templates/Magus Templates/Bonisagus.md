@@ -62,4 +62,3 @@ Driven Major, and take two additional Minor Virtues to balance them.
 Similarly, the Arts in which the character has an Affinity can be
 changed, but that also requires changing the spells he knows.
 
-<span id="criamon"></span>

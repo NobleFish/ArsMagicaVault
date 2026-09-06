@@ -28,7 +28,6 @@ The following types of Mythic Companions cover all the supernatural
 realms. You should consult the troupe before choosing one of these, as a
 Nephilim and Devil Child might not work well together in the same saga.
 
-<span id="devil-child"></span>
 - [[Devil Child]]
 - [[Faerie Doctors]]
 - [[Sin-Eating]]

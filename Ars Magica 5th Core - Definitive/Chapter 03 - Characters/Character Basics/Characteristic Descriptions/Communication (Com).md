@@ -4,4 +4,3 @@ verbally or otherwise. A positive Communication score suggests a
 character who is comfortable with or confident in his relationships with
 other people.
 
-<span id="dexterity-dex"></span>

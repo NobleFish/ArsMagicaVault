@@ -20,4 +20,4 @@ rather than overlapping.
 Companions should generally not have The Gift, unless you intend to play
 through apprenticeship so that they become magi at some point.
 
-<span id="mythic-companions"></span>
+Companion Templates: [[Companion Templates]]

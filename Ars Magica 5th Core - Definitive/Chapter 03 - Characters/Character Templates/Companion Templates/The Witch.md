@@ -44,4 +44,3 @@ change the Flaw to Plagued by Supernatural Entity or Supernatural
 Nuisance. She can take another Major Flaw, or three more Minor ones,
 along with corresponding Virtues.
 
-<span id="magus-templates"></span>

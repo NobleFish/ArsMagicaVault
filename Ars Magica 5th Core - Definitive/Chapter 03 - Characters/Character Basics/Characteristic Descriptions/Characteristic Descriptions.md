@@ -1,4 +1,4 @@
-<span id="intelligence-int"></span>
+
 - [[Intelligence (Int)]]
 - [[Perception (Per)]]
 - [[Strength (Str)]]

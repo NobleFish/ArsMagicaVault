@@ -37,9 +37,8 @@ of the covenant of Ingasia in the Theban Tribunal, and would like it to
 become the domus magna so that there would be no need for him to move
 (***see The Sundered Eagle, page 86***).
 
-***House Verditius is a Mystery Cult, and all members are initiated into
-the Outer Mystery of Verditius Magic. (See <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Verditius_—_Verditius_Magic"
-class="wikilink" title="page 240">page 240</a>)***
+House Verditius is a Mystery Cult, and all members are initiated into
+the Outer Mystery of Verditius Magic. See More: [[Verditius — Verditius Magic]]
 
-TODO:: Fix Links
+[[TODO]] Fix link to The Sundered Eagle
+[[TODO]] Link to correct house of hermes book as "See More"

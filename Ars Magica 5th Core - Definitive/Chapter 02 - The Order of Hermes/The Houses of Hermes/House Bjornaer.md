@@ -35,9 +35,9 @@ Forests</a>. The former Primus, Archmagus Urgen, is the chief of Clan
 Midusulf, and still important in the House, sitting on its council and
 residing at Crintera.
 
-This House is a Mystery Cult, and the ability to take the form of the <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Bjornaer_—_The_Heartbeast"
-class="wikilink" title="heartbeast">heartbeast</a> is the Outer Mystery.
+This House is a Mystery Cult, and the ability to take the form of the heartbeast is the Outer Mystery. See More: [[Bjornaer — The Heartbeast]]
 
 
-TODO:: Fix Links
+[[TODO]] Fix links to Guardians of the Forest book
+
+[[TODO]] Link to correct house of hermes book as "See More"

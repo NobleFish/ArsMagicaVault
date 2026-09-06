@@ -29,4 +29,5 @@ Tytalus choose sides, but most of them seem to do so simply for the sake
 of the challenge, and not because they have any real loyalty to one or
 the other.
 
-TODO:: Fix Links
+[[TODO]] Fix link to The Lion and Lily
+[[TODO]] Link to correct house of hermes book as "See More"

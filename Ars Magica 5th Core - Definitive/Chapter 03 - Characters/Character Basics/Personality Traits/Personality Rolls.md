@@ -57,4 +57,3 @@ do this rarely.</p></td>
 </tbody>
 </table>
 
-<span id="reputations"></span>

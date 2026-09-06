@@ -4,4 +4,3 @@ using brute, physical force against something or someone. People with
 high Strength are often bigger than those with low Strength, assuming
 they have the same Size.
 
-<span id="stamina-sta"></span>

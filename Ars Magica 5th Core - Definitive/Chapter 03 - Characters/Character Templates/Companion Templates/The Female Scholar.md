@@ -45,5 +45,3 @@ for Virtues that emphasize a different aspect of her life would be fine.
 Similarly, the emphasis of her studies could be moved to a different
 subject, as long as she still has a score of at least one in Artes
 Liberales, so that she is literate.
-
-<span id="the-knight"></span>

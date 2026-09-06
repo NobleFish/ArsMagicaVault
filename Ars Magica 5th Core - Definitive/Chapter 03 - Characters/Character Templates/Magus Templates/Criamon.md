@@ -65,4 +65,4 @@ be moved into other Abilities available in the first five years of life
 title="page 43">page 43</a>), possibly also moving her good Presence
 score as well.
 
-<span id="ex-miscellanea"></span>
+[[Resume]] Resume here

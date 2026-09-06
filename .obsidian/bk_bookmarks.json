@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1788721689923,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1788721689923,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1788721689923,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1788721827364,
+                  "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Chapter 01 - Introduction.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1788721827364,
+                  "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Welcome to Ars Magica.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1788721827364,
+                  "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Basic Ideas.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1788721827364,
+                  "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Structure of the Book.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1788721827364,
+                  "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Glossary.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1788721827364,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1788721837832,
+                      "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Die Rolls/Die Rolls.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1788721837832,
+                      "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Die Rolls/Rounding.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1788721837832,
+                      "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Die Rolls/Simple Die.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1788721837832,
+                      "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Die Rolls/Stress Die.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1788721837832,
+                      "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Die Rolls/Botch Dice.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Die Rolls"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1788721827364,
+                  "path": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Ease Factors.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Chapter 01 - Introduction"
+            }
+          ],
+          "title": "Ars Magica 5th Core - Definitive"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

@@ -5,4 +5,4 @@
 | 9 | Same county | Same province | Entire Order | In general, only people with a reputation are known in this group, but everyone knows a few other people. |
 | 12 | Same country | Whole Church | N/A | Most people in this wider world are unknown, but those with outstanding reputations may be. |
 
-<span id="confidence"></span>
+

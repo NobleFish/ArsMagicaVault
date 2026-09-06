@@ -43,4 +43,5 @@ is rumored to possess a portal to the underworld, something that would
 be very appropriate to the tradition (***see The Sundered Eagle, page
 66***).
 
-TODO:: Fix Links
+[[TODO]] Fix link to The Sundered Eagle
+[[TODO]] Link to correct house of hermes book as "See More"

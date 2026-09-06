@@ -61,4 +61,6 @@ for the new university in that town (***see Art and Academe,
 <a href="Art_&amp;_Academe_Open_Content#Cambridge" class="wikilink"
 title="page 112">page 112</a>**'').
 
-TODO:: Fix Links
+[[TODO]] Fix link to Gentle Gift virtue
+[[TODO]] Fix link to Legends of Hermes, The Lion and Lily, and Art & Academe
+[[TODO]] Link to correct house of hermes book as "See More"

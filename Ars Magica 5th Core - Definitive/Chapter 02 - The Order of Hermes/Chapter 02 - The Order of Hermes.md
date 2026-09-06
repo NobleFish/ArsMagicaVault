@@ -9,6 +9,6 @@ to which Ars Magica characters are almost all affiliated in some way.
 [[The History of the Order]]
 [[The Houses of Hermes]]
 [[Covenants]]
-[[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/The Code of Hermes]]
-[[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/Tribunals]]
+[[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/The Code of Hermes|The Code of Hermes]]
+[[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/Tribunals|Tribunals]]
 [[The Order and Society]]

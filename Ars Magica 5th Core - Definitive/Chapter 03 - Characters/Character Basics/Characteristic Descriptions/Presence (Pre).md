@@ -4,4 +4,3 @@ people. Presence also measures how imposing or intimidating a person is.
 Even if not physically attractive, a person with high Presence might
 still have a demeanor that commands respect.
 
-<span id="communication-com"></span>

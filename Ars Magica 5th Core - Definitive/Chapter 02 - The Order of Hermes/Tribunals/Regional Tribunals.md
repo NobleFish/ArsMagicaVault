@@ -18,4 +18,5 @@ Guardians of the Forests (the Rhine Tribunal), The Lion and the Lily
 Against the Dark (the Transylvanian Tribunal), The Contested Isle (the
 Hibernian Tribunal), and Faith & Flame (the Provençal Tribunal).
 
-TODO:: Fix Links
+[[TODO]] Link to the MAP
+[[TODO]] Link to the correct tribunal books

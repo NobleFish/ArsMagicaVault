@@ -6,13 +6,9 @@ belongs to a single player, who has complete control over that
 character's decisions.
 
 Although magi are very powerful, they are also limited in important ways
-by The Gift, their ability to work magic (see pages <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Four:_Virtues_and_Flaws#The_Gift"
-class="wikilink" title="63">63</a> and <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#The_Gift"
-class="wikilink" title="203">203</a>). This means that there are some
+by The Gift, their ability to work magic (see sections [[Ars Magica 5th Core - Definitive/Chapter 04 - Virtues and Flaws/The Gift|Virtue - The Gift]] and[[Ars Magica 5th Core - Definitive/Chapter 07 - Hermetic Magic/The Gift/The Gift|Hermetic Magic - The Gift]]). This means that there are some
 things that only non-magi can do effectively. In addition, magi are
 rarely skilled at anything other than magic, which means that they need
 help in everyday affairs.
 
-<span id="companions"></span>
+Mage Templates:  [[Magus Templates]]

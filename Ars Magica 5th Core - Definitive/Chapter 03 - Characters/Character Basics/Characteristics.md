@@ -11,5 +11,3 @@ cannot be increased by normal means. In rare circumstances, the
 storyguide may decide that drastic events warrant some sort of permanent
 change to a Characteristic, and powerful magic can also raise them, but
 for most characters, they are fixed.
-
-<span id="characteristic-descriptions"></span>

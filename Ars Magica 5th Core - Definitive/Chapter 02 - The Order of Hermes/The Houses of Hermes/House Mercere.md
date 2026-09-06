@@ -32,4 +32,4 @@ all Mercere from the domus magna at Harco, in the Roman Tribunal. As she
 does not have The Gift, she tries to stay out of Hermetic politics as
 far as possible, thus reinforcing the House’s reputation for neutrality.
 
-TODO:: Add Links
+[[TODO]] Link to correct house of hermes book as "See More"

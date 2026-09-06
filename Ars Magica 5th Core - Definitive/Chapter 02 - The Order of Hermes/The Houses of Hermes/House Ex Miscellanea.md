@@ -25,4 +25,6 @@ wards created by Hermetic magic. Most magi would be hard-pressed to name
 any magus Ex Miscellanea they did not know personally — including most
 members of the House.
 
-TODO:: Fix Links
+[[TODO]] Fix link to Houses of Hermes - Societates
+[[TODO]] Link to correct house of hermes book as "See More"
+

@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0573d138c1036b7",
+        "id": "498d0f00aed37b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "b313e40c95bbbc50",
+            "id": "5eef2732e20f5d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Chapter 02 - The Order of Hermes.md",
+                "file": "Resume.md",
                 "mode": "source",
-                "source": true,
-                "backlinks": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 02 - The Order of Hermes"
+              "title": "Resume"
             }
           }
         ]
@@ -32,11 +31,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0264df3d67fc528",
+        "id": "cf2c35eb99113028",
         "type": "tabs",
         "children": [
           {
-            "id": "c9db7c8158c3ef98",
+            "id": "df6caa56fbbaac23",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +50,20 @@
             }
           },
           {
-            "id": "17bc68c5b4730e41",
+            "id": "5ff0fa1bea1dfb44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bdf45634210cb9c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,19 +77,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "7e0953a28bf7d694",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -100,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Die Rolls/Die Rolls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,37 +183,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b313e40c95bbbc50",
+  "active": "5eef2732e20f5d42",
   "lastOpenFiles": [
-    "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Chapter 01 - Introduction.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Chapter 02 - The Order of Hermes.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/The Code of Hermes.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The History of the Order/The History of the Order.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Houses of Hermes/The Houses of Hermes.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/The Order and Society.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/Tribunals.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Covenants.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Introduction.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Other Wizards.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Magical Items.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Cities.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Nobility.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/The Church.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Order and Society/Peasants.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Attribution.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/Regional Tribunals.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/Tribunals/The Grand Tribunal.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Oath - Lex Hermae.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Apprentices.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Scrying.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Magical Creatures.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Molesting the Faeries.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Dealing with Demons.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Interfering with Mundanes.md",
-    "Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Tribunals.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Magus Templates/Criamon.md",
+    "Resume.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Magus Templates/Magus Templates.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Magus Templates/Bonisagus.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Magus Templates/Bjornaer.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Magi Only- Hermetic House/Hermetic Houses Summary.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Companion Templates/The Witch.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Companion Templates/The Rogue.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Companion Templates/The Priest.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Companion Templates/The Knight.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Companion Templates/The Female Scholar.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Companion Templates/Companion Templates.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Grog Templates/Grog Templates.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Format.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Grog Templates/The Specialist.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Grog Templates/The Grizzled Veteran.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Grog Templates/The Standard Soldier.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Grog Templates/The Tough Guy.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Grog Templates/The Hunter.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Grog Templates/The Berserker.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Templates/Character Templates.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Confidence/Confidence.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Reputations/Reputation Ease Factors.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Reputations/Reputations.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Confidence/Raising Confidence Score.md",
+    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Confidence/Getting New Confidence Points.md",
+    "House of Hermes - Mystery",
+    "Untitled.base",
     "Houses of Hermes - True Lineages/Chapter 05 - True Lineages Timeline",
     "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Symbols/Wolves",
     "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Varieties of Ghost/Animals",
@@ -221,8 +224,6 @@
     "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Specialist Roles/Physicians",
     "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/The House After Tremere",
     "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/The Final Founder",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/Mortal Affairs",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Structure/The Role of the Exarchs",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Structure/The Role of Experienced Magi"
+    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/Mortal Affairs"
   ]
 }

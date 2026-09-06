@@ -23,4 +23,4 @@ Revised Edition* and *Rival Magic*, and in the regional sourcebooks for
 areas outside Mythic Europe: *The Cradle and the Crescent*, *Between
 Sand and Sea*, and *Lands of the Nile*.
 
-TODO:: Fix Links
+[[TODO]] Fix links to Hedge magic, Rival magic, The Cradle and Crescent, Between Sand and Sea and Lands of the Nile

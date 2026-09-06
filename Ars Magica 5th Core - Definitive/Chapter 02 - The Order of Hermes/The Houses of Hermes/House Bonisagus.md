@@ -28,4 +28,5 @@ class="wikilink"
 title="Tales of Power, Chapter Four: Encroaching Dominion">Tales of
 Power, Chapter Four: Encroaching Dominion</a>).
 
-TODO:: Fix Links
+[[TODO]] Fix links to Guardians of the Forest, Legends of Hermes, and Tales of Power
+[[TODO]] Link to correct house of hermes book as "See More"

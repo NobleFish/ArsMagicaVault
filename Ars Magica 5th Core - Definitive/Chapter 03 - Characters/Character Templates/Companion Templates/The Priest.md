@@ -41,4 +41,3 @@ been a central event in his past. If it happened, it should be. The
 nature of his Lesser Immunity can easily be changed, and even boosted to
 a Greater Immunity if you take two more Minor Flaws.
 
-<span id="the-rogue"></span>

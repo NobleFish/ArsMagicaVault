@@ -16,15 +16,15 @@ it is written down. There is a slight difference between the Code that
 members of House Bonisagus swear and the Code that members of other
 Houses swear. The difference is marked.
 
-- [[The Code of Hermes]]
+- [[Oath - The Code of Hermes]]
 - [[Oath - Lex Hermae]]
 - [[The Peripheral Code]]
 - [[Depriving of Magical Power]]
 - [[Wizards' War]]
-- [[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Tribunals]]
+- [[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Tribunals|Tribunals]]
 - [[Interfering with Mundanes]]
 - [[Dealing with Demons]]
 - [[Molesting the Faeries]]
-- [[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Magical Creatures]]
+- [[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Magical Creatures|Magical Creatures]]
 - [[Scrying]]
-- [[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Apprentices]]
+- [[Ars Magica 5th Core - Definitive/Chapter 02 - The Order of Hermes/The Code of Hermes/Apprentices|Apprentices]]

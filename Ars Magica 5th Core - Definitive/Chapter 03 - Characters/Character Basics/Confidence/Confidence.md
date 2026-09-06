@@ -8,7 +8,6 @@ Virtues and Flaws.
 There is no limit to the number of Confidence Points that a character
 can have.
 
-<span id="using-confidence"></span>
 - [[Using Confidence]]
 - [[Getting New Confidence Points]]
 - [[Raising Confidence Score]]

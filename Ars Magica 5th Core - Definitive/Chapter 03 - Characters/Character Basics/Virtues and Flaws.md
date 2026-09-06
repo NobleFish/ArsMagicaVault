@@ -2,8 +2,4 @@ Virtues and Flaws are features of the character that are not shared by
 most people; special benefits in the case of Virtues, and disadvantages
 or hooks into stories for Flaws. They cover supernatural abilities,
 including The Gift, enemies, obsessions, and aptitudes, as well as much
-more. All Virtues and Flaws are listed in their own chapter, starting on
-<a href="Ars_Magica_Definitive_Edition,_Chapter_Four:_Virtues_and_Flaws"
-class="wikilink" title="page 61">page 61</a>.
-
-<span id="characteristics"></span>
+more. All Virtues and Flaws are listed in their own chapter [[Chapter 04 - Virtues and Flaws]].
