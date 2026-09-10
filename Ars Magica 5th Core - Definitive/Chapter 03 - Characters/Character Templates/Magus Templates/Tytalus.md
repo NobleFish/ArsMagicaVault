@@ -60,4 +60,3 @@ Aura of Rightful Authority (ReMe 20+16) Scent of Peaceful Slumber (ReMe
 Customization Notes: The Tytalus can take up to three more points of
 Flaws, and a similar number of Virtues.
 
-<span id="verditius"></span>

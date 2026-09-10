@@ -57,4 +57,3 @@ himself as an artist in music and magic. He can take up to three points
 more of Flaws, with the corresponding Virtues. Note that he has the
 Gentle Gift, and thus can interact with mundanes without any penalty.
 
-<span id="mercere"></span>

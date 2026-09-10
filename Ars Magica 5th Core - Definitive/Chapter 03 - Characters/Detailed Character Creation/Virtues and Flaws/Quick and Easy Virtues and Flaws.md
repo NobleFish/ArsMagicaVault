@@ -27,5 +27,3 @@ simplified guidelines.
   Minor Magical Focus, and take Puissant and Affinity in it. Choose one
   Form that overlaps with your Minor Magical Focus, and take Puissant in
   it.
-
-> <span id="example-darius-of-flambeau-1"></span>

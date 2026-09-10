@@ -54,4 +54,4 @@ the spell cast. If the check fails, he cannot bring himself to lie,
 although he can remain silent. The Guernicus could take four more points
 of Flaws, and corresponding Virtues.
 
-<span id="jerbiton"></span>
+

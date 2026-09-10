@@ -7,4 +7,3 @@ Characters with the Wealthy Virtue get 20 experience points per year,
 while characters with the Poor Flaw get 10 experience points per year.
 Note that only companions can take this Virtue or Flaw.
 
-> <span id="example-darius-of-flambeau-3"></span>

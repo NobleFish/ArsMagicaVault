@@ -16,4 +16,4 @@ sensible choices, it is usually hard to raise Abilities above the
 age-based limits, which is why they exist in Detailed Character
 Creation.
 
-<span id="characters-with-might-scores"></span>
+

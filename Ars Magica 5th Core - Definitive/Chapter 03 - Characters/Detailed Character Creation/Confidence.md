@@ -7,7 +7,5 @@ Points, unless they have a Virtue or Flaw that indicates otherwise.
 Confidence Points can be spent to gain a one-off +3 bonus to any die
 roll, and a maximum number of Confidence Points equal to the character's
 Confidence Score may be spent on a single roll. More details on
-Confidence can be found on
-<a href="#Confidence" class="wikilink" title="page 29">page 29</a>.
+Confidence can be found in [[Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Confidence/Confidence|Confidence]]>.
 
-<span id="equipment"></span>

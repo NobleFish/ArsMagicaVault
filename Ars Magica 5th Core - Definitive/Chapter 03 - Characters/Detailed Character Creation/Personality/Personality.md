@@ -1,8 +1,6 @@
 Choose a few words to describe your character's personality, and attach
 a value between -3 and +3 to each. These are your character's
-Personality Traits (see
-<a href="#Personality_Traits" class="wikilink" title="page 28">page
-28</a>). If you have a Minor Personality Flaw, you should represent that
+Personality Traits (see [[Personality Traits]]). If you have a Minor Personality Flaw, you should represent that
 by a Personality Trait with a score of +3 or -3, and a Major Personality
 Flaw should have a Personality Trait of +6 or -6.
 
@@ -15,6 +13,6 @@ roleplaying, although you can roll them if you really want to, so you
 shouldn't worry too much about them. A few specific rules do require
 rolls on Personality Traits, however.
 
-> <span id="example-darius-of-flambeau-6"></span>
+
 - [[Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Personality/Example- Darius of Flambeau]]
 - [[Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Personality/Example- Darius of Flambeau (1)]]

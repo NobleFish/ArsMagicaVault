@@ -52,5 +52,3 @@ belt, for example, but it must be at least the size of the magus's hand
 (the magus has big hands). The magus doesn't have his full allowance of
 Flaws, so you can take another Major Flaw, or three more Minor, and
 corresponding Virtues.
-
-<span id="flambeau"></span>

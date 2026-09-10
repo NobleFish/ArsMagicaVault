@@ -61,4 +61,4 @@ and as many Virtues. The type of Strong Faerie Blood can also be changed
 easily. They might look younger than 25, due to the influence of Strong
 Faerie Blood, but need not.
 
-<span id="tremere"></span>
+

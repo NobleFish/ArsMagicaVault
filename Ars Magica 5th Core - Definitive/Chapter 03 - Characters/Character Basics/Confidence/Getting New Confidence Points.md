@@ -22,3 +22,8 @@ following that they managed:
 Typical characters should gain two or three Confidence Points per
 session.
 
+[[TODO]] Fix community gloss
+
+|Community Gloss|
+|---|
+|Note that it is also possible to gain a Confidence Point through sin (see [Realms of Power: The Infernal, Chapter Two](https://www.redcap.org/page/Realms_of_Power:_The_Infernal_Chapter_Two:_Sin_and_Temptation#Gaining_Confidence_through_Sin "Realms of Power: The Infernal Chapter Two: Sin and Temptation")). Confidence can also be gained through [maleficia](https://www.redcap.org/page/Realms_of_Power:_The_Infernal_Chapter_Ten:_The_Maleficia#Debauchery/psychomachia "Realms of Power: The Infernal Chapter Ten: The Maleficia") or [Ablating](https://www.redcap.org/page/Realms_of_Power:_The_Infernal_Chapter_Eleven:_Ars_Goetia#Ablating "Realms of Power: The Infernal Chapter Eleven: Ars Goetia").<br><br>On the Divine side, a Confidence point can be gained through [Penance](https://www.redcap.org/page/Realms_of_Power:_The_Divine_Open_Content#The_Sacraments "Realms of Power: The Divine Open Content") or a [Vigil](https://www.redcap.org/page/The_Church_Open_Content#Vigils_&_Fasting "The Church Open Content"), but in limited ways.|

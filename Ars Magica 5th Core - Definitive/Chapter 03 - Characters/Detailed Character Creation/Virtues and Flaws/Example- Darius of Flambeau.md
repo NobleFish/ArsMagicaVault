@@ -24,7 +24,3 @@ good thing when facing other magi. That uses another three points, but
 he still has two Minor Virtues to buy. He chooses Strong-Willed and
 Enduring Constitution, which fit the image and provide a bit more
 breadth.
-
-</blockquote>
-
-<span id="characteristics-1"></span>

@@ -41,4 +41,3 @@ involvement in their demonic heritage varies from one individual to
 another. Their Abilities should reflect the task for which they were
 created.
 
-<span id="faerie-doctors"></span>

@@ -25,5 +25,9 @@ Suggested Ease Factors are found on the table
 - [[Personality Rolls]]
 
 
-[[TODO]] Include Community Gloss : https://www.redcap.org/page/Ars_Magica_Definitive_Edition,_Chapter_Three:_Characters
+[[TODO]] Fix Community Gloss
+
+|Community Gloss|
+|---|
+|Consider associating each personality trait with a vice or virtue, as suggested in [Realms of Power: The Divine](https://www.redcap.org/page/Realms_of_Power:_The_Divine_Open_Content#Personality_Traits "Realms of Power: The Divine Open Content") and [Realms of Power: The Infernal](https://www.redcap.org/page/Realms_of_Power:_The_Infernal_Chapter_Two:_Sin_and_Temptation#Sinful_Traits "Realms of Power: The Infernal Chapter Two: Sin and Temptation"). Personality traits are also categorized by the four humours in [Art & Academe, Chapter Four: Medicine](https://www.redcap.org/page/Art_%26_Academe_Open_Content#Personality_Traits_for_the_Four_Complexions "Art & Academe Open Content").|
 

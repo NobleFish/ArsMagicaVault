@@ -224,6 +224,3 @@ physically into Twilight. The traitor is still at large; Darius intends
 to kill him in the next confrontation and is even prepared to sacrifice
 himself to achieve this aim.
 
-</blockquote>
-
-<span id="option-extremely-complex-character-generation"></span>

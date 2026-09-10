@@ -11,10 +11,7 @@ these totals do not stack, even if they derive from the same Realm
 (Infernal Might and an infernal power, for example); you simply use the
 higher total.
 
-Characters with a Might Score are immune to all Warping (see Warping and
-Non-Humans, <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Ten:_Long-Term_Events#Warping_and_Non-Humans"
-class="wikilink" title="page 389">page 389</a>). They may, however,
+Characters with a Might Score are immune to all Warping (see [[Warping and Non-Humans|Warping and Non-Humans]]). They may, however,
 spend a point of their Might Pool to use any Ability or power which
 normally incurs Warping.
 
@@ -23,4 +20,4 @@ realm — Twilight, Hubris, Vituperation, and so forth — but still suffer
 any other consequences of a failed or botched roll when using their
 powers.
 
-<span id="mythic-companions-1"></span>
+

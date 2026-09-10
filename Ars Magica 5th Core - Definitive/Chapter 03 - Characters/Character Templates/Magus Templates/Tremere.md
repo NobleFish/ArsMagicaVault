@@ -82,5 +82,3 @@ Aquam received an additional 33 experience points (from Auram, Ignem and
 Terram), for a final total of 39 and a score of 8 (3), and each of the
 other Arts received an additional 25 experience points, for a final
 total of 46 and a score of 9 (1).
-
-<span id="tytalus"></span>

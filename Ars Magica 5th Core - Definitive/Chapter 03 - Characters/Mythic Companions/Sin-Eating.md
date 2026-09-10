@@ -35,6 +35,3 @@ unwittingly part of the scapegoat rite when observing Jewish practices
 in his goat heartbeast, and now seeks a way to unburden himself from the
 community's sins.
 
-</blockquote>
-
-<span id="nephilim"></span>

@@ -1,16 +1,12 @@
 1.  **Pick a character concept.**
-2.  **Hermetic Magi Only: Pick a House.** (See <a
-    href="Ars_Magica_Definitive_Edition,_Chapter_Two:_The_Order_of_Hermes#The_Houses_of_Hermes"
-    class="wikilink" title="page 13">page 13</a>)
+2.  **Hermetic Magi Only: Pick a House.** (See [[The Houses of Hermes]])
 3.  **Pick Virtues and Flaws.** Minor Virtues and Flaws are worth one
     point, Major Virtues and Flaws three points each.
     - *Grogs:* Up to three Minor Flaws, and the same number of Minor
       Virtues.
     - *Companions and Magi:* Up to ten points of Flaws, and the same
       number of points of Virtues.
-4.  **Buy Characteristics.** Start with 7 points. See
-    <a href="#Characteristics" class="wikilink" title="page 27">page 27</a>
-    or <a href="#Characteristics_2" class="wikilink" title="48">48</a>.
+4.  **Buy Characteristics.** Start with 7 points. See [[Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Characteristics|Characteristic Cost]], and [[Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Characteristics|Characteristics Descriptions]].
 5.  **Early Childhood.** 75 experience points in Native Language
     (normally granting a score of 5), and 45 experience points spread
     between Area Lore (for the place or places the character is growing
@@ -60,5 +56,3 @@ well be a grog. The rules for character creation differ slightly between
 the three character types, but they are basically the same. However,
 there are enough separate steps for magi to make it worth treating them
 separately.
-
-<span id="starting-character-age"></span>

@@ -11,3 +11,12 @@ cannot be increased by normal means. In rare circumstances, the
 storyguide may decide that drastic events warrant some sort of permanent
 change to a Characteristic, and powerful magic can also raise them, but
 for most characters, they are fixed.
+
+- [[Intelligence (Int)]]
+- [[Perception (Per)]]
+- [[Strength (Str)]]
+- [[Stamina (Sta)]]
+- [[Presence (Pre)]]
+- [[Communication (Com)]]
+- [[Dexterity (Dex)]]
+- [[Quickness (Qik)]]

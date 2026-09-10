@@ -5,6 +5,3 @@ Looking at the Houses, Flambeau and Tytalus both look appropriate, but
 Puissant Art (Perdo) fits the concept better than Self-Confident, so he
 goes with House Flambeau. Darius is now Darius of Flambeau.
 
-</blockquote>
-
-<span id="virtues-and-flaws-1"></span>

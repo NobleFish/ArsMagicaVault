@@ -20,4 +20,4 @@ Much more information about playing child characters is provided in
 change as the character ages. If you do not have access to that book,
 use your best judgement.
 
-<span id="magi-only-hermetic-house"></span>
+[[TODO]] Fix link to apprentices book

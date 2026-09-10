@@ -31,4 +31,3 @@ Nephilim should begin play with the following minimum Ability scores:
 - Penetration 1
 - Sense Holiness and Unholiness 3
 
-<span id="spirit-votary"></span>

@@ -17,7 +17,3 @@ points, which he decides to spend on Order of Hermes Lore 1. It's a
 general Ability, so he can, and he rationalizes the decision by assuming
 that his future master took him to the covenant some time before his
 apprenticeship actually began.
-
-</blockquote>
-
-<span id="advancement-table"></span>

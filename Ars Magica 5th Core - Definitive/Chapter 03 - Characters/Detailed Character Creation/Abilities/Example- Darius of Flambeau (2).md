@@ -16,9 +16,7 @@ mastery ability for the spell.
 
 Niall then decides that Darius will spend the next year in the
 laboratory, so he gains no experience points in that year. See the
-Laboratory Chapter from
-<a href="Ars_Magica_Definitive_Edition,_Chapter_Eight:_Laboratory"
-class="wikilink" title="page 249">page 249</a> for details of these
+[[Chapter|Laboratory Chapter]] for details of these
 activities. Season 1: Opens spear haft (staff) for enchantment (8 pawns
 vis); Season 2: Attunes spear haft as a talisman; Season 3: Creates
 Longevity Ritual (7 pawns vis, Lab Total 35, for a +7 bonus against
@@ -41,28 +39,3 @@ point.
 Niall then continues aging Darius to the age of 87, but that's enough
 example.
 
-</blockquote>
-
-Older magi can learn spells more quickly than these guidelines suggest.
-You may therefore want to use these rules to have a magus learn spells
-as a lab project if you are advancing him more than forty years or so
-beyond apprenticeship.
-
-Remember that you should also make aging rolls for the character each
-year from the age of 35. Thus you will probably want your magus to have
-acquired a Longevity Ritual (see <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Eight:_Laboratory#Longevity_Rituals"
-class="wikilink" title="page 261">page 261</a>) by then. Some skilled
-magi offer their services creating Longevity Rituals for others, and you
-may decide that your character has bargained for one such ritual,
-especially if you are not interested in studying the Arts of Creo or
-Corpus. The precise details of such bargains and the bonus given by the
-resulting ritual should be agreed with the storyguide.
-
-Magi of Hermes contains 15 magi detailed with full statistics
-immediately after apprenticeship and every 15 years thereafter,
-including details of any spells they invented or magic items they
-created. These can serve as a source of ideas, or be used as-is in the
-saga, even as player characters.
-
-<span id="personality"></span>

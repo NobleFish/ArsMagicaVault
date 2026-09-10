@@ -45,10 +45,7 @@ Aura of Ennobled Presence (Mulm 10/+8)
 
 Piercing the Faerie Veil (InVi 20/+18)
 
-Piercing the Magical Veil (InVi 20/+18) (see <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Nine:_Spells#Piercing_the_Faerie_Veil"
-class="wikilink" title="Piercing the Faerie Veil">Piercing the Faerie
-Veil</a>)
+Piercing the Magical Veil (InVi 20/+18) (see [[Piercing the Faerie Veil]])
 
 Unraveling the Fabric of Imaginem (PeVi 20/+16)
 
@@ -60,9 +57,6 @@ Customization Notes: The Criamon does not have her maximum allowance of
 Flaws, so could take an additional Major Flaw or three Minor Flaws, with
 corresponding Virtues, if desired. Her Charm and Folk Ken scores could
 be moved into other Abilities available in the first five years of life
-(see the Detailed Character Creation rules,
-<a href="#Detailed_Character_Creation" class="wikilink"
-title="page 43">page 43</a>), possibly also moving her good Presence
+(see the [[Detailed Character Creation|Detailed Character Creation]] rules), possibly also moving her good Presence
 score as well.
 
-[[Resume]] Resume here

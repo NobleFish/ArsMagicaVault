@@ -11,4 +11,5 @@ these Abilities; choose the ones that best fit your conception of the
 character. This represents what the character picks up as she plays as a
 child.
 
-<span id="sample-childhoods"></span>
+
+[[TODO]] Fix link to Living Languages

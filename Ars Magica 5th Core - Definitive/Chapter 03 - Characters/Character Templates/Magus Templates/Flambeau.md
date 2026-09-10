@@ -61,4 +61,4 @@ Wrathful and Enemies can be swapped out for other Flaws with no trouble,
 to break the stereotype a bit, as can his Greater Immunity. He can take
 another Minor Flaw, and balancing Minor Virtue.
 
-<span id="guernicus"></span>
+

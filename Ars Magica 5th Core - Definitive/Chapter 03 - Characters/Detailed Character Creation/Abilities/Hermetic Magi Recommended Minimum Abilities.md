@@ -17,11 +17,9 @@ the other.
 The highest level spell you can learn is equal to Technique + Form +
 Intelligence + Magic Theory +3, where the Technique and Form are the
 Technique and Form of the spell in question. If the spell has requisites
-(see <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Requisites"
-class="wikilink" title="page 311">page 311</a>), they apply to this
+(see [[Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Targets and Sizes/Requisites/Requisites|Requisites]]), they apply to this
 total as well. This is the appropriate Lab Total, assuming an aura
 modifier of +3, and thus any Virtues and Flaws your character has apply
 to this total if they would apply to a Lab Total in play.
 
-<span id="magus-only--after-apprenticeship"></span>
+

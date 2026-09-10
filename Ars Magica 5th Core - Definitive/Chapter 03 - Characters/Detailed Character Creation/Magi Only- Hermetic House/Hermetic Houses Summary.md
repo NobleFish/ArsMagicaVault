@@ -1,8 +1,5 @@
-The Hermetic Houses are described in more detail starting on <a
-href="Ars_Magica_Definitive_Edition,_Chapter_Two:_The_Order_of_Hermes#The_Houses_of_Hermes"
-class="wikilink" title="page 12">page 12</a>. Members of each House get
-a particular benefit at character creation, listed in the following
-table.
+The Hermetic Houses are described in more detail in [[The Houses of Hermes]]. 
+Members of each House get a particular benefit at character creation, listed in the following table.
 
 <table>
 <thead>
@@ -18,9 +15,7 @@ table.
 <td><p>Bjornaer</p></td>
 <td><p>Mystery Cult</p></td>
 <td><p>Magi who are animals as well as humans</p></td>
-<td><p>Heartbeast (<a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Bjornaer_—_The_Heartbeast"
-class="wikilink" title="page 85">page 85</a>), beginning score of 1 in
+<td><p>Heartbeast (see below), beginning score of 1 in
 Heartbeast Ability.</p></td>
 </tr>
 <tr>
@@ -34,9 +29,7 @@ Heartbeast Ability.</p></td>
 <td><p>Criamon</p></td>
 <td><p>Mystery Cult</p></td>
 <td><p>Mystical philosophers and masters of riddles</p></td>
-<td><p>The Enigma (<a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Criamon_—_The_Enigma"
-class="wikilink" title="page 78">page 78</a>), beginning score of 1 in
+<td><p>The Enigma (see below), beginning score of 1 in
 Enigmatic Wisdom.</p></td>
 </tr>
 <tr>
@@ -81,9 +74,7 @@ Status Virtue, and do not take the Redcap Major Status Virtue.</p></td>
 <td><p>Merinita</p></td>
 <td><p>Mystery Cult</p></td>
 <td><p>Faerie magi</p></td>
-<td><p>Faerie Magic (<a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Merinita_—_Faerie_Magic"
-class="wikilink" title="page 79">page 79</a>), beginning score of 1 in
+<td><p>Faerie Magic (see below), beginning score of 1 in
 Faerie Magic. Any magus in this House without a faerie-related Virtue or
 Flaw has a Warping Point, inflicted to allow initiation into the
 Mystery.</p></td>
@@ -104,11 +95,12 @@ Mystery.</p></td>
 <td><p>Verditius</p></td>
 <td><p>Mystery Cult</p></td>
 <td><p>Crafters of enchanted items</p></td>
-<td><p>Verditius Magic (<a
-href="Ars_Magica_Definitive_Edition,_Chapter_Seven:_Hermetic_Magic#Verditius_—_Verditius_Magic"
-class="wikilink" title="page 114">page 114</a>).</p></td>
+<td><p>Verditius Magic (see below).</p></td>
 </tr>
 </tbody>
 </table>
 
-> <span id="example-darius-of-flambeau"></span>
+[[Bjornaer — The Heartbeast]]
+[[Criamon — The Enigma]]
+[[Merinita — Faerie Magic]]
+[[Verditius — Verditius Magic]]

@@ -27,4 +27,4 @@ zero to that number.
 To Raise: The number of experience points required to raise a score by
 one point to that number.
 
-<span id="magus-only--apprenticeship"></span>
+

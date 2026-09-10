@@ -79,4 +79,3 @@ Finally, not everyone descended from dwarfs is as small as they are, so
 that Flaw could be swapped for others without affecting the character on
 a fundamental level.
 
-<span id="detailed-character-creation"></span>

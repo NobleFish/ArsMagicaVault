@@ -17,7 +17,7 @@ Abilities during play. In practice, most Abilities will not rise above
 | 41-45    | 8               |
 | 46+      | 9               |
 
-<span id="early-childhood"></span>
+
 - [[Early Childhood]]
 - [[Sample Childhoods]]
 - [[Later Life]]

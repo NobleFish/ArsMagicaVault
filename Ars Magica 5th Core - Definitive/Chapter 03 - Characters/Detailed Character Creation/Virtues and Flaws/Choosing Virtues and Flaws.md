@@ -37,4 +37,3 @@ particular types of character found in Mythic Europe. You can safely
 ignore these, until you decide that you want to play that sort of
 character.
 
-<span id="quick-and-easy-virtues-and-flaws"></span>

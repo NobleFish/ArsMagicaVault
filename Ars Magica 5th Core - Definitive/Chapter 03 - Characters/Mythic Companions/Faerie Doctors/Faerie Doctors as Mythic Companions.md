@@ -37,4 +37,3 @@ they are understandably less powerful. They still take the compulsory
 Virtues and Flaws listed above, but must balance Virtues and Flaws in
 the normal manner.
 
-> <span id="sin-eating"></span>

@@ -47,5 +47,4 @@ priesthood who see his 'clients' as demons or evil spirits, however, the
 faerie doctor is rarely pagan himself. He simply realizes the true place
 of the fae in the daily lives of those under his care.
 
-<span id="faerie-doctors-as-mythic-companions"></span>
 - [[Faerie Doctors as Mythic Companions]]

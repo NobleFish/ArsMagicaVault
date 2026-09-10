@@ -22,4 +22,4 @@ Oath. Magi should also seriously consider putting points into Code of
 Hermes, Concentration, Finesse, Order of Hermes Lore, Penetration, and
 Profession (Scribe).
 
-> <span id="example-darius-of-flambeau-4"></span>
+

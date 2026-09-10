@@ -29,7 +29,3 @@ scores:
 - Penetration 1
 - Second Sight 3
 
-------------------------------------------------------------------------
-
-Open License Markdown version by YR7 & OriginalMadman,
-<https://github.com/OriginalMadman/Ars-Magica-Open-License>

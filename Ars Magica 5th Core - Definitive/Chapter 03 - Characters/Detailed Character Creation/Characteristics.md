@@ -17,4 +17,3 @@ Communication is vital if you want your character to write good books.
 | -2    | Gain 3 |
 | -3    | Gain 6 |
 
-> <span id="example-darius-of-flambeau-2"></span>

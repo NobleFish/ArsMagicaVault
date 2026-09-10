@@ -14,6 +14,3 @@ Dexterity +1 (making him better than average in combat). It looks like
 Darius will occasionally use physical combat, which makes sense; steel
 can get through Magic Resistance without any trouble.
 
-</blockquote>
-
-<span id="abilities-1"></span>

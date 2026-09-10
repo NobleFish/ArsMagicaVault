@@ -51,4 +51,3 @@ and probably prefers to do so. By moving scores from Hunt and Stealth
 into social Abilities such as Charm, he can be made more likely to
 travel with a group.
 
-<span id="merinita"></span>

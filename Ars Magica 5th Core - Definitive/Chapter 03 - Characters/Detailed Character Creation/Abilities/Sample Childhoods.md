@@ -10,4 +10,4 @@ you can spend the 45 experience points for yourself, as well.
 - Traveling Childhood: Area A Lore 1, Area B Lore 1, Folk Ken 2, Living
   Language 1, Native Language 5, Survival 2
 
-<span id="later-life"></span>
+
