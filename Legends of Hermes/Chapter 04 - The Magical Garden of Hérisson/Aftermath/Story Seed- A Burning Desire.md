@@ -1,0 +1,3 @@
+A phoenix near the end of its life comes to the garden seeking a cinnamon tree. As is its custom, the bird will build a nest of cinnamon boughs, which are then immolated along with the bird when the rising sun ignites the nest, and a phoenix chick is reborn in the ashes. A magus desiring an exotic familiar could bargain with the dying bird for its child, but the phoenix demands the death of a distant king who craves the flesh of exotic birds. The magus might be tempted to ignore the deal once the parent bird is dead, or at least delay its execution. This invokes the deathcurse of the phoenix.
+</blockquote>
+<blockquote><span id="story-seed-the-kidnapped-totems"></span>

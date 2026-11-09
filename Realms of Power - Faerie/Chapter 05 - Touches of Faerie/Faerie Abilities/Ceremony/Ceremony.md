@@ -1,0 +1,9 @@
+This Ability is used in conjunction with another Faerie Supernatural Ability to produce a greater effect. To use it, the character must gather a group together and determine what they are going to do. Since it increases the potency of faerie effects, at least one of the participants must possess the Ability (this character is called the focus character); if it is a Power, whatever Method the character would use to enact a rite must be performed by each member of the group. Because of this, all of the participants are considered to be the caster when evaluating the effect. Any number of people can participate in a ceremony. The group generates a group modifier by adding up all of their Ceremony scores and subtracting the total number of participants. This group modifier is applied to the focus character’s total, and might be positive or negative depending on how many people have joined the ceremony and how skilled they are at performing it together.''
+
+{{ArsMformula|Group Modifier|Total Ceremony Scores – Number of Participants}}
+
+All participants also add their scores in the appropriate (Characteristic + Ability) or (Characteristic + Method) to the focus character’s total. If a character does not have the relevant Ability or Method, only the Characteristic is added. After this bonus has been applied, the focus character rolls the die and resolves the effect as normal. (As there are several versions of this Ability associated with different realms, you should list this as Faerie Ceremony on the character sheet if it is necessary to distinguish them.) Specialties: With a certain Ability, in particular circumstances, with a specific person. (Supernatural)
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+- [[New and Modified Flaws]]

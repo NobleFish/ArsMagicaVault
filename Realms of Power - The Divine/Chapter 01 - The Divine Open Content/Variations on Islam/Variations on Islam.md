@@ -1,0 +1,15 @@
+> Allah is the Light of the heavens and the earth. The similitude of His
+> light is as a niche wherein is a lamp. The lamp is in a glass. The
+> glass is as it were a shining star. (This lamp is) kindled from a
+> blessed tree, an olive neither of the East nor of the West, whose oil
+> would almost glow forth (of itself) though no fire touched it. Light
+> upon light. Allah guideth unto His light whom He will. And Allah
+> speaketh to mankind in allegories, for Allah is Knower of all things.
+>
+> *Qur'an 24:35, "The Light Verse," seen by many Sufis as an exhortation
+> to mystical contemplation of God.*
+
+<span id="sufism"></span>
+- [[Sufism]]
+- [[Shi'i Islam]]
+- [[Almohad Islam]]

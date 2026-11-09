@@ -1,0 +1,16 @@
+A mundane character making an Etiquette roll may add to the roll by spending money on materials given up as part of the Etiquette check. This represents gifts given to a host, donations made to causes to shame a rival, bets placed with spectators, sumptuous food offered, costumes purchased, rooms rented, and fine wines consumed. The bonus is equal to +1 for each time the character spends the weekly income of all of his guests. A character cannot gain a bonus higher than his Etiquette score by spending money.
+
+The loss of money represents the character purchasing particular items that have been sanctified by time as suitable for this style of competition. The selection of costume, gifts, food, and location all have complex associated rules of appropriateness that the character must follow. Collecting suitable items for an Etiquette check takes time: a character living in a city can spend no more than one pound per day, while one living outside a city must travel to one, or send a skilled procurer.
+
+Magi cannot impress other magi with items that are mere expressions of wealth. Magi may find or procure rare and relevant items during stories. They frequently store items suitable for Etiquette check bonuses for many years, waiting for the perfect moment, and perfect recipient. Some Jerbiton magi barter these items with each other, or leave these items as gifts to their filii at death. A gift of this type grants a bonus of between +1 and +5 to the Etiquette check, with the highest score representing unique items that perfectly match the desires of the recipient.
+
+An Intelligence + Order of Hermes Lore + Reputation (of the receiver) roll against an Ease Factor of . . 
+* . . . 6 tells a magus what sorts of gifts are appropriate for another magus. For example, whether the magus is known to collect a certain type of art, or books by a certain author. Conversely, this result also tells a magus which magi are likely to want an unusual item found during a story
+*. . . . 9 refines the above information, telling the giver what items within that range of gifts are considered particularly common or precious by collectors of similar material. For example, a magus might learn that copies of the author Lucian’s True Story are considered less precious than copies of his Lovers of Lies among Bonisagus magi, but that Jerbiton magi esteem the first higher than the second. This level of result also allows a magus to select a single magus most likely to value an exceptional item found during a story. For example, if the PC magi defeat a magical tortoise and take its shield-sized shell, this result tells them that Martial of Tytalus collects turtle shells inscribed with bellicose Latin quotations.
+* . . . 12 refines the information yet further, so that a magus can define the perfect gift to give to a particular magus, or know that the item they are holding is the perfect gift for a particular magus, if such a magus is active in Hermetic society.
+
+When giving gifts to mundane people, Intrigue may be used in lieu of Order of Hermes Lore.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+- [[The Great Feasts]]

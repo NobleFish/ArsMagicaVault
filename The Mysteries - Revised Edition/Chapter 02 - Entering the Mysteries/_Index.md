@@ -1,0 +1,27 @@
+# Chapter 02 - Entering the Mysteries
+
+## Contents
+
+- [[Introduction]]
+- [[Secrecy and the Mysteries]]
+- [[Entering a Mystery Cult]]
+- [[Rhiannon’s Rite]]
+- [[Revised Ability- (Mystery Cult) Lore]]
+- [[(Mystery Cult) Lore and Degrees of Initiation]]
+- [[Time and Initiation]]
+- [[Time and the Mystagogue]]
+- [[Distractions and the Initiate]]
+- [[The Mechanics of Initiation]]
+- [[The Mystagogue]]
+- [[Virtues Initiated]]
+- [[Initiation Rites]]
+- [[Example Initiation Script Designs]]
+- [[To Gain a Major Supernatural Ability by Ordeal and Teaching]]
+- [[To Gain A Minor Virtue By Ordeal and Sacrifice]]
+- [[To Gain A Minor Virtue By Questing]]
+- [[Example- Darius Undergoes Initiation]]
+- [[Inventing Your Own Cult]]
+- [[Example- Darius Undergoes Initiation, Revisited]]
+- [[The Initiated Apprentice And Beyond]]
+- [[Experimenting To Discover a New Minor Virtue Script]]
+- [[Cabal Legacy — Minor Hermetic Story Flaw]]

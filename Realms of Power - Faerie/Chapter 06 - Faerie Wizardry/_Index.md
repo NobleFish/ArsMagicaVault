@@ -1,0 +1,26 @@
+# Chapter 06 - Faerie Wizardry
+
+## Contents
+
+- [[Introduction]]
+- [[Rites of Faerie]]
+- [[Performing Faerie Rites]]
+- [[Hermetic Rites]]
+- [[Faerie Methods]]
+- [[Evocation]]
+- [[Enchantment]]
+- [[Empathy]]
+- [[Faerie Powers]]
+- [[Beguile]]
+- [[Conjure]]
+- [[Dream]]
+- [[Grant]]
+- [[Portage]]
+- [[Ware]]
+- [[Weal]]
+- [[Woe]]
+- [[Ars Fabulosa]]
+- [[Pagan Traditions]]
+- [[Ollamhain]]
+- [[Volkhvy]]
+- [[Wise Folk]]

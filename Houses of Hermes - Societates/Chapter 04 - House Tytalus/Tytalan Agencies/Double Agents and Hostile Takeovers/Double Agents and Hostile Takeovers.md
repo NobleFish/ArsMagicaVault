@@ -1,0 +1,7 @@
+Occasionally, a Tytalan magus will come across (or seek out) an agent in the employ of a rival. This agent might be courted by the magus so that he has a mole inside the rival agency. Recruiting the agent follows the usual rules (see Appendix); as soon as the Bond Strength of the agent reaches zero, he becomes a double agent, working for both agencies, but most loyal to the principal with the highest Bond Strength. Should the original principal become aware of the subordination of his agent, he can maintain him as a triple agent, feeding back false information.
+
+Conducting a hostile takeover of another’s agency can be done one agent at a time, but there are quicker methods available to magi. Using appropriate magics, a Tytalan can disguise himself as the principal and establish a persona (see below) among the agents as the original principal. The interloper can then use the Bond Strength of any agent built by the principal as if it were his own. The agent believes that he is still working for the same person, and is often relocated to keep him away from his former principal. This process only works if the original principal does not have regular contact with his agents, else the deception is too easily discovered.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+- [[Example Agencies with Tytalan Principals]]

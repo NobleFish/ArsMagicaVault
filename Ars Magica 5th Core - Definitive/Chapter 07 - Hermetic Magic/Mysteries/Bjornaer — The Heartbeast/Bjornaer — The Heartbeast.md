@@ -46,6 +46,6 @@ Finally, Bjornaer magi cannot bind familiars. The reasons for this are
 debated, but the fact is uncontroversial.
 
 > <span id="ringing-the-changes"></span>
-- [[Ringing the Changes]]
+- [[Ars Magica 5th Core - Definitive/Chapter 07 - Hermetic Magic/Mysteries/Bjornaer — The Heartbeast/Ringing the Changes]]
 - [[Secret Name (Minor House Mystery)]]
 - [[Initiation of Secret Name]]

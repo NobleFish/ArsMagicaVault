@@ -1,0 +1,25 @@
+# Chapter 07 - Library
+
+## Contents
+
+- [[Introduction]]
+- [[Writing Surfaces]]
+- [[Writing Implements as Gifts]]
+- [[Varieties of Manuscript]]
+- [[Scribal Magic]]
+- [[Magic that Aids Librarians]]
+- [[Potentially Resonant Book Components]]
+- [[Quality Rules]]
+- [[Secondary Functions]]
+- [[Opus Types]]
+- [[Ancient Magical Writing]]
+- [[Hermetic Libraries]]
+- [[The Greater Collection]]
+- [[Hermetic Books- Definition of Categories of Value]]
+- [[Prices for Books]]
+- [[Accession]]
+- [[Use]]
+- [[Deselection]]
+- [[Phenomena]]
+- [[Information]]
+- [[Knowledge]]

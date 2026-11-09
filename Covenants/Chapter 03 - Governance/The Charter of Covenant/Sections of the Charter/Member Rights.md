@@ -1,0 +1,18 @@
+This section details the apportioning of the covenant’s resources among its members. The most basic rights of members are those of food, drink, and shelter; most covenants also assume that a laboratory is a basic right. Charters might not necessarily include these basic rights explicitly, but many do, particularly if withholding rights is the method of censure (see below).
+
+More important to magi are the right to use the covenant’s library and magical items, to receive a share of the covenant’s vis, and perhaps to spend a portion of the covenant’s money. Access to the library and magical items is easily dealt with; many covenants allow their members to use both freely, although many have provisions for dealing with the situation where two magi wish to use the same resource at the same time.
+
+The sharing of the covenant’s vis is perhaps the most contentious issue to be dealt with in the entire charter, and different covenants’ approaches vary dramatically. Some avoid the issue entirely by not claiming any vis at all; at such covenants all vis belongs to individuals, and vis found outside the bounds of the covenant belongs wholly to the finder. Members may be required to pay a yearly tithe of vis to meet the covenant’s vis demands, for the yearly casting of the Aegis of the Hearth, if nothing else.
+
+Alternatively, the covenant may claim all vis for itself, and once the demands of the covenant itself have been met, the remainder (or a portion of the remainder) is divided up between the members of the covenant. The mechanics of this division must be indicated in the charter, along with who is responsible for the division. Harsher still, a charter may dictate that all vis belongs to the covenant as a whole, with individual members forced to petition the council for shares according to their needs. If individuals need to work to acquire a share of vis, then the Vis Salary Hook is appropriate to this covenant. On the other side of the coin, a covenant may divide up surplus vis each year between its members, represented by the Vis Grant Boon.
+
+It should be decided whether the rules for the allocation of vis apply equally to vis from renewable sources and vis earned on adventures. Most charters allow magi to keep whatever vis they find, unless it proves to be a renewable source, in which case it belongs to the covenant. Any alternative method encourages magi to be secretive about the vis they find, and allows for cheating.
+
+The monies owed by the covenant may be treated in the same way as vis, but most magi at least pretend to be less interested in money than vis, and allow the covenant to deal with all financial matters. There may be a facility in the charter for a magus to request that the covenant purchase an expensive item specifically for his use, in which case it needs to be stipulated just how much of the financial resources of the covenant may be requested by individual members.
+
+Hierarchical covenants may restrict the rights of certain of its members, so that only the upper echelons get full access to all the resources of the covenant.
+
+Covenants usually seek to improve themselves, and there may be a provision in the charter to reward members who perform work on the covenant’s behalf. This work might include copying of tomes for exchange, making magical items (with the covenant’s vis); or even taking on dangerous adventures such as bargaining with the local faerie king. The charter may stipulate a standard reward for particular tasks, or set aside a share from the yearly income of resources to pay those who perform covenant work.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|

@@ -1,0 +1,3 @@
+Nearby peasants are concerned that the local church is failing them. The priest refuses to preach, more people in town are getting sick, and the church grounds seem inexplicably eerie at night. With nowhere else to go, they ask the magus for help. He sends his apprentice to investigate, telling him to take something from the church that can act as an arcane connection, so that the magus can watch it from afar. The peasants are correct; the church is under the sway of a demon. This simple mission places the apprentice face-to-face with a demonic entity and its possessed priest.
+</blockquote>
+<blockquote><span id="story-seed-missing-mail"></span>

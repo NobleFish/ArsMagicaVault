@@ -1,0 +1,130 @@
+- Alienable Land: Residents, Minor
+- Ancestral Error: External, Minor
+- Beholden: External, Major
+- Castle: Buildings, Major
+- Centralized Kingdom: External, Minor
+- Center of Excellence: External, Major
+- Ceremonies: External, Major
+- Chapter House: Residents, Major
+- Church Territory: External,
+- Minor City: Surroundings, Major
+- Constantly Mobile: Site, Major
+- Contested Resource: Resources, Minor
+- Corrupt Area: Site, Minor
+- Crumbling: Buildings, Minor, requires Castle
+- Cursed: Site, Minor
+- Dark Secret: Residents, Minor
+- Death Prophecy: Surroundings, Minor
+- Deathbed Visitor: Surroundings, Minor
+- Demonic Interest: Surroundings, Major
+- Diabolic Corruption: Residents, Major
+- Distorted Covenfolk: Residents, Minor
+- Divided Loyalty: Residents, Major
+- Dumping Ground: Residents, Minor
+- Dwindling Resources: Resources, Minor
+- Enclosed: Surroundings, Major
+- Evil Custom: Site, Minor
+- Erratically Mobile: Site, Minor
+- Exceptional Book: External, Major
+- Faerie Aura: Site, Minor
+- Faerie Court: Surroundings, Minor
+- Faerie Landlord: Surroundings, Major
+- Fallen Temple: Surroundings, Minor
+- Fated Feat: Surroundings, Minor
+- Favors: External, Minor
+- Festival: Surroundings, Minor
+- Flawed Resources: Resources, Minor
+- Flickering Aura: Site, Minor
+- Ford: Surroundings, Minor
+- Fosterage: Residents, Minor
+- Fractured Council: Residents, Major
+- Gender Imbalance: Residents, Minor
+- Great Work: see Edifice
+- Guardians: Surroundings, Minor
+- Guild: Residents, Minor
+- Hangout: External, Minor
+- Haunted: Site, Minor
+- Hedge Tradition: External, Major
+- Heretics: Surroundings, Minor
+- Hermetic Politics: External, Minor
+- Hermetic Services: External, Major
+- Hermit: Surroundings, Minor
+- Highly Mutable: Site, Major
+- House Church: Residents, Minor
+- House Covenant: External, Minor
+- Illusory Resources: Resources, Minor
+- Incompetent Covenfolk: Residents, Minor
+- Indebted: Resources, Major
+- Indebted: Resources, Minor
+- Indigenes: Residents, Minor
+- Indiscreet Resource: Resources, Major
+- Indiscreet Resource: Resources, Minor
+- Infamous: External, Minor
+- Inhuman Covenfolk: Residents, Minor
+- Infants: Residents, Minor
+- Itinerants: External, Minor
+- Legendary Site: Surroundings, Minor
+- Magical Disaster: Site, Major
+- Magical Fortress: Buildings, Minor, requires Castle
+- Massacre Site: Surroundings, Minor
+- Meddlesome Saint: Surroundings, Major
+- Mercer House: Residents, Major
+- Missing Aura: Site, Major
+- Missing Founder: External, Minor
+- Monastery: Surroundings, Minor
+- Monster: Site, Major
+- Monster: Surroundings, Major
+- Monster: Surroundings, Minor
+- Mundane Politics: External, Major
+- Mutable: Site, Minor
+- Natural Disaster: Resources, Major
+- Natural Disaster: Resources, Minor
+- Non-magical Regio: Site, Minor, requires Regio
+- Outbuildings: Buildings, Minor, requires Castle
+- Pagans: Surroundings, Major
+- Poverty: Resources, Major
+- Poverty: Resources, Minor
+- Pilgrimage Site: Surroundings, Major
+- Possession Victim: Residents, Minor
+- Poorly Defensible: Site, Minor
+- Protector: Surroundings, Minor
+- Public Vis Source: External, Minor
+- Rebellious Covenfolk: Residents, Major
+- Refugee: Residents, Minor
+- Regio: Site, Major
+- Regio: Site, Minor
+- Regio With Unexpected Entries: Site, Minor
+- Regional Produce: Resources, Minor
+- Resident Nuisance: Site, Minor
+- Rights and Customs: Residents, Minor
+- Rival: External, Major
+- Rival: External, Minor
+- Road: Site, Major
+- Road: Site, Minor
+- Roman Ruins: Surroundings, Minor
+- Ruined Covenant: Surroundings, Major
+- Sanctuary: Surroundings, Minor
+- School: Residents, Major
+- Seat of Power: Surroundings, Major
+- Seed of Madness: Residents, Minor
+- Site of Weakness: Surroundings, Minor
+- Slavery: External, Minor
+- Spies: Residents, Minor
+- Superior Engineering: Buildings, Minor, requires Castle
+- Suffrage: Residents, Minor
+- Superiors: Residents, Major
+- Superiors: Residents, Minor
+- Tribunal Border: External, Major
+- Undemocratic Tribunal: External, Minor
+- Ungarrisoned Castle: Surroundings, Minor
+- Unsafe: External, Minor
+- Unsubtle Predecessor: External, Minor
+- Uncontrolled Portal: Site, Minor
+- Unhealthy Environment: Site, Minor
+- Urban: Site, Major
+- Urban: Site, Minor
+- Vis salary: Resources, Minor
+- War Zone: External, Major
+- Warping to a Pattern: Site, Minor
+- Weak Aura: Site, Minor
+- Wooden: Buildings, Minor, requires Castle

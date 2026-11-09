@@ -1,0 +1,57 @@
+''Thelxiope discovered and trained many young women on her travels. After she retired, her pupils continued the search. The Seirenes continue to place an emphasis on recruiting apprentices to their tradition. Because a Seirene often identifi es a Gifted women before she is able to train her adequately, the Seirenes have developed a custom of sending their apprentices to begin training in Music and Siren Song with their parentes. After her gauntlet and before she joins a covenant, a Seirene usually spends time traveling with two other Seirenes. When combined with the joint early training that Seirenes have, these practices have created a very tight-knit tradition.''
+
+''The Seirenes do not only seek women with The Gift. They readily recruit any female with Supernatural Abilities, or any with a damaged Gift, who might be capable of learning Siren Song. The Seirenes treat these unGifted members as equals in all aspects; however, the Order does not grant them the voting rights of true magae.''
+
+''The Seirenes’ search to discover Gifted women defi nes their tradition. The Seirenes believe that the conditions for women, especially Gifted ones, are intolerable in the male-dominated society of Mythic Europe. Thelxiope’s followers know that changing society is a slow process, but they take small steps where they can. When a Seirene discovers a woman ruling her own lands, running her own business,''
+''or performing any role tra''
+''ditionally limited to men,''
+''she surreptitiously assists''
+''the woman or hinders''
+''her male rivals.''
+
+''The Seirenes also attempt to make their covenants more egalitarian. To do this, Seirenes ensure that their covenants''
+''recruit exceptional women wherever they''
+''fi nd them. They also encourage female grogs and covenfolk to perform traditional male''
+''roles whenever they show any aptitude.''
+
+''Seirenes are not virulently anti-male, merely vigorously pro-female.''
+''The Seirenes entered the Order relatively early in its history. Although their magic was powerful against mundane men, a magus of only moderate power or anyone familiar with the tale of Odysseus''
+''could easily defeat it. The''
+''Seirenes realized this''
+''and accepted the offer''
+''of membership in the''
+''Order for access to Bonisagus’s versatile''
+''magic and the protection of the Parma Magica. The Seirenes also recognized that the Order was essentially a meritocracy where all members were given an equal voice.''
+
+''At Tribunal, the Seirenes tend to vote at the direction of their leadership. This practice is not followed as rigidly as it is by House Tremere, and each member retains''
+''g , ope''
+''ed''
+''y r''
+'', e''
+''''
+''o''
+''c''
+''r t''
+''a g''
+''.''
+''e at''
+''cery''
+''p ditio''
+''she''
+''the''
+''h''
+''t th''
+''r w''
+''fi e an fo''
+''r h m''
+''ag m po wit''
+''cou''
+''Se''
+''an''
+''o''
+''her own sigil. The leadership of the tradition is determined every 12 years at a grand competition. All Seirenes compete for the titles of First Singer, First Lyrist, and First Flautist. The winners are chosen by vote of all members present at the grand competition, which is held at the covenant of the reigning First Singer. Other than this honor, the three Firsts are treated equally and have equal authority. Although someone without The Gift has never won the competition, the possibility exists.''
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+- [[Islands of the Sirens]]
+- [[Story Seed]]
