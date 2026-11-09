@@ -1,0 +1,13 @@
+<span id="general-8"></span>
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Rego Imaginem Spells/GENERAL]]
+- [[Restore the Moved Image]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Rego Imaginem Spells/LEVEL 10]]
+- [[Illusion of the Shifted Image]]
+- [[Wizard's Sidestep]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Rego Imaginem Spells/LEVEL 30]]
+- [[The Captive Voice]]
+- [[Confusion of the Insane Vibrations]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Rego Imaginem Spells/LEVEL 35]]
+- [[Image from the Wizard Torn]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Rego Imaginem Spells/LEVEL 50]]
+- [[Illusion of the Misplaced Castle]]

@@ -1,0 +1,11 @@
+<span id="level-5-12"></span>
+- [[Books/Core/09 - Spells/Herbam Spells/Creo Herbam Spells/LEVEL 5]]
+- [[Conjure the Sturdy Vine]]
+- [[Books/Core/09 - Spells/Herbam Spells/Creo Herbam Spells/LEVEL 15]]
+- [[Trap of the Entwining Vines]]
+- [[Bridge of Wood]]
+- [[Wall of Thorns]]
+- [[Books/Core/09 - Spells/Herbam Spells/Creo Herbam Spells/LEVEL 25]]
+- [[Wall of Living Wood]]
+- [[Books/Core/09 - Spells/Herbam Spells/Creo Herbam Spells/LEVEL 35]]
+- [[The Bountiful Feast]]

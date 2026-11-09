@@ -1,0 +1,13 @@
+<span id="adjuration-1"></span>
+- [[ADJURATION-]]
+- [[BLESSING-]]
+- [[CEREMONY-]]
+- [[CURSING-]]
+- [[HOLY MAGIC-]]
+- [[INTERVENTION-]]
+- [[INVOCATION-]]
+- [[MEDITATION-]]
+- [[PURITY-]]
+- [[TRANSCENDENCE-]]
+- [[UNDERSTANDING-]]
+- [[WONDERS-]]

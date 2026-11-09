@@ -1,0 +1,5 @@
+While many magi call the Twilight Void by that name, it is not absolutely clear that this is where magi go when they are in Twilight. In particular, travelers who believe they have met magi in the Twilight Void have not been able to confirm that those magi were in Twilight at the time they met them, and magi who have gone into Twilight and met travelers during their experience cannot be sure that these travelers were not apparitions or figments of their imaginations. On the other hand, the Twilight Void is very big, and few of the magi able to travel there have specifically gone looking for other magi to investigate this phenomenon. The arguments in favor are mainly circumstantial: magi in the Twilight Void are unaffected by the mundane realm and time in much the same way as magi in Twilight, and there are no other obvious candidates for places for magi to go at that point. Many Criamon do not think that the Twilight Void is where magi go in Final Twilight, however, because it does not seem to them to be fully outside the cycle of time.
+|}
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|

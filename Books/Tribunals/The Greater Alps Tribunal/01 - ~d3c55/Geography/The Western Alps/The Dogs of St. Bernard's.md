@@ -1,0 +1,3 @@
+When modern readers think of a St. Bernard, they know only the dog that is the culmination of centuries of breeding. In 1220, the characteristic breed is in its infancy of development. Dogs, however, have been part of Alpine life since the Romans. Used in war and as draft animals, the large Roman dogs known as Molosser formed the basis for the St. Bernard breed. For many farmers in the mountains of the Alps, a dog is more useful than a horse as it can fulfill many draft chores and also will guard herds of cattle from marauding predators.
+</blockquote>
+<blockquote><span id="dragons-and-dragonets"></span>

@@ -1,0 +1,12 @@
+<span id="animal-an-animal"></span>
+- [[Animal (An) &quot;animal']]
+- [[Aquam (Aq) &quot;water&quot;]]
+- [[Auram (Au) &quot;air&quot;]]
+- [[Corpus (Co) &quot;body&quot;]]
+- [[Herbam (he) &quot;plant&quot;]]
+- [[Ignem (Ig) &quot;fire&quot;]]
+- [[Imaginem (Im) &quot;image&quot;]]
+- [[Mentem (Me) &quot;mind&quot;]]
+- [[Terram (Te) &quot;earth&quot;]]
+- [[Vim (Vi) &quot;power&quot;]]
+- [[The Elemental Forms]]

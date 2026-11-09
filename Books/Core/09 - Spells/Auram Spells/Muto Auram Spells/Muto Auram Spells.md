@@ -1,0 +1,10 @@
+<span id="level-20-7"></span>
+- [[Books/Core/09 - Spells/Auram Spells/Muto Auram Spells/LEVEL 20]]
+- [[Rain of Stones]]
+- [[Talons of the Winds]]
+- [[Books/Core/09 - Spells/Auram Spells/Muto Auram Spells/LEVEL 40]]
+- [[Infernal Smoke of Death]]
+- [[Books/Core/09 - Spells/Auram Spells/Muto Auram Spells/LEVEL 45]]
+- [[Fog of Confusion]]
+- [[Books/Core/09 - Spells/Auram Spells/Muto Auram Spells/LEVEL 50]]
+- [[Rain of Oil]]

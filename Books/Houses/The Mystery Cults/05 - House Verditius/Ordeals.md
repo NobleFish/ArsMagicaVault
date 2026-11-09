@@ -1,0 +1,17 @@
+House Verditius has developed several Ordeals to assist Initiates in achieving additional Inner Mysteries. The first Ordeal, undertaken to learn the first Minor Inner Mystery, always grants the Minor Flaw Hubris. Further Ordeals may be used in ways that best fit your saga. They may be connected to specific Inner Mysteries, necessarily undergone in a specific order, or available in any combination for any Inner Mystery.
+
+Verditius magi have successfully used the following Ordeals to Initiate their fellows. Each Ordeal may only be used once by a single magus. 
+
+Sever the Ties That Bind (Major or Minor Ordeal): The Ordeal causes the Initiate to lose whatever emotional bonds he had to his family and friends, and prohibits him from reforming such familial attachments. This can impart either a Minor Flaw or a Major Flaw, depending upon the severity of the attachments severed. The Minor Flaw causes a Verditius magus to expel his family and his forgecompanions from his life, and includes any friendly attachments he may have had to mundane people. The Major Flaw causes the Verditius magus to completely withdraw into himself. He must destroy his familiar, if he had one, and cannot bind a new one. He also must abandon his apprentice. This Ordeal should be rare, as it undermines many of the communal tenants of House Verditius, but it is very appropriate for magi wishing to learn the Inner Mystery Bind Curses. Verditius magi in the line of succession of the Primus may not undergo this Ordeal. 
+
+Self-Mutilation (Major or Minor Ordeal): Following the precedent of Verditius himself, many Verditius magi perform acts of self-mutilation, usually of their legs, scourging their bodies in an effort to elevate their souls. Three Flaws can result from this Ordeal: Crippled, Hobbled, or Lame. The wounds resulting from this self-mutilation cannot be healed, either by physical or magical means. While the initial bleeding and breaking of bones can be remedied, the long-term damage cannot. The bonus received depends on if the mutilation results in a Minor or Major Flaw. 
+
+Prone to Chance (Minor Ordeal): This ordeal changes the magus’s personality, making him extremely keen on risktaking and experimentation. After undergoing this Ordeal, he must experiment on every laboratory activity that allows experimentation, loving the thrill of the unknown and its unexpected outcomes. He receives the Minor Ordeal Flaw Prone to Chance. This Ordeal is incompatible with the Ordeal Averse to Risk. 
+
+Averse to Risk (Minor Ordeal): This Ordeal alters the magus’s personality, making him excessively reluctant to undertake laboratory activities that involve risk. While he may still practice the skills of the Minor Inner Mystery Reforging Items, he may never experiment on laboratory activities. He receives the Minor Ordeal Flaw Adverse to Risk. He may not undergo the Ordeal Prone to Chance. 
+
+Increased Hubris (Minor Ordeal): This Ordeal makes the magus more proud, pompous, arrogant, or whatever form his Hubris Personality Trait takes. He willingly becomes more self-centered and prideful, knowing that this has the potential to distance him from his fellows. You gain enough experience points in your magus’s Hubris score to increase it one level.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+=====Behavior Experience Points=====

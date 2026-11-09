@@ -1,0 +1,10 @@
+<span id="level-5-18"></span>
+- [[Books/Core/09 - Spells/Ignem Spells/Intellego Ignem Spells/LEVEL 5]]
+- [[Tales of the Ashes]]
+- [[Books/Core/09 - Spells/Ignem Spells/Intellego Ignem Spells/LEVEL 15]]
+- [[Shadows of the Fires past]]
+- [[Books/Core/09 - Spells/Ignem Spells/Intellego Ignem Spells/LEVEL 20]]
+- [[Vision of Heat's Light]]
+- [[Books/Core/09 - Spells/Ignem Spells/Intellego Ignem Spells/LEVEL 35]]
+- [[Eyes of the Flame]]
+- [[Words of the Flickering Flame]]

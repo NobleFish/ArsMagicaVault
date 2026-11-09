@@ -1,0 +1,12 @@
+<span id="level-10-21"></span>
+- [[Books/Core/09 - Spells/Creo Mentem Spells/Intellego Mentem Spells/LEVEL 10]]
+- [[Sight of the Transparent Motive]]
+- [[Books/Core/09 - Spells/Creo Mentem Spells/Intellego Mentem Spells/LEVEL 15]]
+- [[Perception of the Conflicting Motives]]
+- [[Books/Core/09 - Spells/Creo Mentem Spells/Intellego Mentem Spells/LEVEL 20]]
+- [[Frosty Breath of the Spoken Lie]]
+- [[Posing the Silent Question]]
+- [[Books/Core/09 - Spells/Creo Mentem Spells/Intellego Mentem Spells/LEVEL 25]]
+- [[Thoughts within Babble]]
+- [[Books/Core/09 - Spells/Creo Mentem Spells/Intellego Mentem Spells/LEVEL 30]]
+- [[Peering into the Mortal Mind]]

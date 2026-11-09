@@ -1,0 +1,11 @@
+
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Creo Animal Spells/Creo Animal Spells]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Intellego Animal Spells]]
+- [[Rego Animal]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Rego Aquam Spells]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Creo Imaginem Spells/Creo Imaginem Spells]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Muto Mentem Spells]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Rego Mentem Spells]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Creo Terram Spells]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Intellego Terram Spells]]
+- [[Books/Houses/The True Lineages/04 - House Tremere/New Spells/Muto Terram Spells]]

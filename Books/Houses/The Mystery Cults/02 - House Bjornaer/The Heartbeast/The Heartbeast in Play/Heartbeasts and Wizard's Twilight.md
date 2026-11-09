@@ -1,0 +1,6 @@
+When a Bjornaer magus undergoes Wizard’s Twilight, he usually adopts the form of his heartbeast. However, he often acts like the mundane animal of his heartbeast rather than as a being with intelligence, and some liken Wizard’s Twilight to a form of Bjornaer Lycanthropy (although not within earshot of a member of the House!). Magi with high Warping Scores may well adopt the form of their innermost heartbeast '''''(see Inner Mysteries, below)'''''.
+
+When Final Twilight comes to a Bjornaer magus, he always adopts the form of his heartbeast and flees all human contact. If the magus only knows the Outer House Mystery, he becomes a mundane beast. However, if he has achieved any of the Inner Mysteries of the House, he converts into his inner heartbeast and acquires a Magic Might equal to (5 x Heartbeast Ability). House Bjornaer refers to these beings as Great Beasts, and treats them with a great deal of reverence and superstition. The appearance of a Great Beast is considered to be a powerful omen, especially at the Gathering of Twelve Years. The last time a Great Beast was seen was at the Gathering of 1167; only a year later, the island was invaded by the King of Denmark.
+
+{| class="wikitable"
+|-

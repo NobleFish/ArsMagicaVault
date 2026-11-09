@@ -1,0 +1,13 @@
+<span id="level-10-26"></span>
+- [[Books/Core/09 - Spells/Terram Spells/Perdo Terram Spells/LEVEL 10]]
+- [[Fist of Shattering]]
+- [[Rusted Decay of Ten-score Years]]
+- [[Books/Core/09 - Spells/Terram Spells/Perdo Terram Spells/LEVEL 15]]
+- [[Pit of the Gaping Earth]]
+- [[Books/Core/09 - Spells/Terram Spells/Perdo Terram Spells/LEVEL 20]]
+- [[Obliteration of the Metallic Barrier]]
+- [[Stone to Falling Dust]]
+- [[Books/Core/09 - Spells/Terram Spells/Perdo Terram Spells/LEVEL 25]]
+- [[End of the Mighty Castle]]
+- [[Books/Core/09 - Spells/Terram Spells/Perdo Terram Spells/LEVEL 40]]
+- [[Cascade of Rocks]]

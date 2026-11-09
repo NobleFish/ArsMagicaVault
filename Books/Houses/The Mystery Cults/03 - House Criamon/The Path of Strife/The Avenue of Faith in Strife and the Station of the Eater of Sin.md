@@ -1,0 +1,8 @@
+The Prima and other senior mages counsel young magi against seeking this path. If they cannot be dissuaded, they are directed to the Initiation site, which is maintained far from the Cave of Twisting Shadows. There the Keeper of the Path tests them: they must negotiate the Labyrinth of Strife, a tangled structure of tunnels which magi can only escape by performing feats that violate the usual Criamon tenets of apt action. When magi reach the end of the process of degradation, they discover the fi rst station on the path, and are infused with the power of strife.
+
+Magi on this path have aligned themselves with strife. They can sense the increase in strife that occurs when magic is used. They, in turn, are so attuned to strife that they radiate it. They may use their Enigmatic Wisdom as the Magic Sensitivity Ability, but they do not subtract it from their Magic Resistance. They develop the Blatant Gift.
+
+Members of this path perform their labyrinth meditations while armed with weapons. The associated movements — a series of strikes, blocks, and feints performed with exacting slowness — seem graceful and dance-like to those unfamiliar with this path. A magus on this path may use his Enigmatic Wisdom score as if it were a score for a single type of weapon. The magus may change his weapon type when his Enigmatic Wisdom score increases in level. A weapon, in this case, refers to a single-line entry from the tables found on ArM5, pages 176–177, excepting any type of armor or shield.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|

@@ -1,0 +1,3 @@
+Some storyguides may be uncomfortable with the idea that magi would allow someone else to make their longevity potions. This option has been included because it allows magi to develop without having to diverge into the study of Corpus during their early thirties. If each magus makes his own longevity potion, a magus who is a longevity specialist will live so long, compared to his sodales, that he will have time to exceed their skill in their area of expertise. All of the Praecones, if forced to make their own potions, are also likely to be longevity specialists, which favors certain Houses.
+</blockquote>
+<blockquote><span id="sinews-of-knowledge"></span>

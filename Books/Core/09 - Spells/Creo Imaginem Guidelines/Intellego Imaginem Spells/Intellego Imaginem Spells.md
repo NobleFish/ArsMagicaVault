@@ -1,0 +1,12 @@
+<span id="general-6"></span>
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Intellego Imaginem Spells/GENERAL]]
+- [[Discern the Images of Truth and Falsehood]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Intellego Imaginem Spells/LEVEL 5]]
+- [[Prying Eyes]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Intellego Imaginem Spells/LEVEL 15]]
+- [[Discern Own Illusions]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Intellego Imaginem Spells/LEVEL 20]]
+- [[The Ear for Distant Voices]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Intellego Imaginem Spells/LEVEL 25]]
+- [[Eyes of the Eagle]]
+- [[Summoning the Distant Image]]

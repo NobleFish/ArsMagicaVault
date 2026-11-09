@@ -1,0 +1,10 @@
+<span id="level-10-1"></span>
+- [[Books/Core/09 - Spells/Animal Spells/Perdo Animal Spells/LEVEL 10]]
+- [[Decay Fur and Hide]]
+- [[Books/Core/09 - Spells/Animal Spells/Perdo Animal Spells/LEVEL 15]]
+- [[Agony of the Beast]]
+- [[Books/Core/09 - Spells/Animal Spells/Perdo Animal Spells/LEVEL 20]]
+- [[Blunt the Viper's Fangs]]
+- [[Books/Core/09 - Spells/Animal Spells/Perdo Animal Spells/LEVEL 25]]
+- [[The Falcon's Hood]]
+- [[Cripple the Howling Wolf]]

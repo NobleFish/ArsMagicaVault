@@ -1,0 +1,11 @@
+<span id="level-4"></span>
+- [[Books/Core/09 - Spells/Herbam Spells/Intellego Herbam Spells/LEVEL 4]]
+- [[Probe Nature's Hidden Lore]]
+- [[Books/Core/09 - Spells/Herbam Spells/Intellego Herbam Spells/LEVEL 5]]
+- [[Hunt for the Wild Herb]]
+- [[Books/Core/09 - Spells/Herbam Spells/Intellego Herbam Spells/LEVEL 10]]
+- [[Intuition of the Forest]]
+- [[Books/Core/09 - Spells/Herbam Spells/Intellego Herbam Spells/LEVEL 15]]
+- [[Shriek of the Impending Shafts]]
+- [[Books/Core/09 - Spells/Herbam Spells/Intellego Herbam Spells/LEVEL 25]]
+- [[Converse with Plant and Tree]]

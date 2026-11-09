@@ -1,0 +1,12 @@
+<span id="level-10-25"></span>
+- [[Books/Core/09 - Spells/Terram Spells/Muto Terram Spells/LEVEL 10]]
+- [[The Crystal Dart]]
+- [[Supple Iron and Rigid Rope]]
+- [[Books/Core/09 - Spells/Terram Spells/Muto Terram Spells/LEVEL 15]]
+- [[Rock of Viscid Clay]]
+- [[Books/Core/09 - Spells/Terram Spells/Muto Terram Spells/LEVEL 20]]
+- [[Edge of the Razor]]
+- [[Earth That Breaks No More]]
+- [[Object of Increased Size]]
+- [[Books/Core/09 - Spells/Terram Spells/Muto Terram Spells/LEVEL 35]]
+- [[Teeth of the Earth Mother]]

@@ -1,0 +1,31 @@
+*This Flaw applies to magi beginning play as Initiates in a Mystery
+Cult; it is not required of those seeking Initiation later, by story
+actions, nor is it required for membership in one of the four Mystery
+Houses. It allows a magus character to be designed with cult Virtues as
+normal Virtues, part of the standard ten Virtues and Flaws — something
+not otherwise possible. These Virtues and Flaws are accounted for
+exactly as normal: in particular, Flaws acquired now do not later count
+as past Ordeals. Note that if a particular Virtue requires some other*
+*specific Virtue or Flaw, then this is still required during Cabal
+Legacy character generation.*
+
+*The magus’s master was an initiate of a Mystery cabal and taught him
+its secrets. As an apprentice, he was marked by the Mystery. Even if he
+renounces all the occult trappings of the society, most magi associate
+him with the Mystery, especially the mystae themselves. When a magus
+with Cabal Legacy speaks, magi often think he speaks for his entire
+cabal. When he acts, the mystae often assume he’s acting as their
+agent.*
+
+*From time to time (rarely more than once every few years) he is
+approached by a senior mystae and commanded to perform a laborious task
+or undertake a bizarre quest on behalf of the cabal, usually requiring a
+season’s worth of activity. Performing this task well increases his
+status with the mystae and deepens his perceived connections to them.
+Refusing or bungling the task earns their wrath.*
+
+*This Flaw is similar to a Minor version of the Major Story Flaw
+Favors.*
+
+\|}
+- [[Books/Mysteries/02 - Entering the Mysteries/Cabal Legacy — Minor Hermetic Story Flaw/Attribution]]

@@ -1,0 +1,17 @@
+- Almond +3 Creo Herbam
+- Blackthorn +6 guardians, +2 dark fey
+- Cedar Tree +2 binding spirits, +5 any effect with Mentem and Herbam
+  requisites
+- Chestnut +4 honesty, +3 justice
+- Cherry +4 bloodshed
+- Cypress Tree +3 spirits, +3 necromancy
+- Dogwood +5 pixies Fig +3 sex magic, +3 gambling
+- Hickory +4 Ignem, +2 majesty
+- Hornbeam +6 strength, +6 Vim on hostile magic''
+- Lemon +5 hearing
+- Lilac +2 travel
+- Orange +5 Sight
+- Palm +3 animating wood
+- Plum +2 blood
+- Poplar, White +3 divination
+- Walnut +4 mind''

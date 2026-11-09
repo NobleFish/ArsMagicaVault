@@ -1,0 +1,11 @@
+<span id="level-5-15"></span>
+- [[Books/Core/09 - Spells/Muto Herbam Guidelines/Perdo Herbam Spells/LEVEL 5]]
+- [[Curse of the Rotted Wood]]
+- [[Books/Core/09 - Spells/Muto Herbam Guidelines/Perdo Herbam Spells/LEVEL 15]]
+- [[Wizard's Autumn]]
+- [[Books/Core/09 - Spells/Muto Herbam Guidelines/Perdo Herbam Spells/LEVEL 20]]
+- [[Plant's Withering Bane]]
+- [[Books/Core/09 - Spells/Muto Herbam Guidelines/Perdo Herbam Spells/LEVEL 25]]
+- [[The Great Rot]]
+- [[Books/Core/09 - Spells/Muto Herbam Guidelines/Perdo Herbam Spells/LEVEL 30]]
+- [[Treading the Ashen Path]]

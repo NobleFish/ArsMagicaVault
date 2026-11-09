@@ -1,0 +1,10 @@
+<span id="level-5-20"></span>
+- [[Books/Core/09 - Spells/Ignem Spells/Rego Ignem Spells/LEVEL 5]]
+- [[Tremulous Vault of the Torch's Flame]]
+- [[Books/Core/09 - Spells/Ignem Spells/Rego Ignem Spells/LEVEL 10]]
+- [[Leap of the Fire]]
+- [[Books/Core/09 - Spells/Ignem Spells/Rego Ignem Spells/LEVEL 20]]
+- [[Light Shaft of the Night]]
+- [[Books/Core/09 - Spells/Ignem Spells/Rego Ignem Spells/LEVEL 25]]
+- [[Burst of the Sweeping Flames]]
+- [[Ward against Heat and Flames]]

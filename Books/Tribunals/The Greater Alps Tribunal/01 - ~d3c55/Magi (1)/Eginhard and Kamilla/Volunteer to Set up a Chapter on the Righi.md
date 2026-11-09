@@ -1,0 +1,17 @@
+As described in the Righi section of the geography chapter, the magi of this covenant are keen to see giants return to the Righi. Younger magi attempting to find colonizers would first need to study the giants of Dachstein, to familiarize themselves with Giant social customs, then travel to Arcadia to find new settlers. While attempting these difficult feats, they would be members of a temporary chapter of the Covenant Where Journeys End, founded near the Righi. Were they to be successful the player characters membership would be invested into the covenant as permanent members.
+</blockquote>
+<span id="chapter-6-the-covenant-of-the-sinews-of-knowledge"></span>
+
+= Chapter 6: The Covenant of the Sinews of Knowledge =
+
+Bonisagus's longevity potions were first improved upon by Sabrina filia Maura, who became the third Primus of House Bonisagus. Over time her formulae have been enhanced, and the project continues, although the rate of development has slowed to virtually nil, and the latest breakthrough was a formula that slowed apparent aging (as described in the Wizard's Grimoire Revised Edition, pages 67-68) Although the longevity project grinds slowly toward its next major breakthrough, its progress is hampered by the constant demand that the key researcher produce longevity potions for an unending list of Hermetic notables.
+
+The main vis source of this covenant is of intense interest to the Seeker tradition. When the magi who held this site joined the Order of Hermes, they revealed that they were a hereditary priesthood, charged with guarding a &quot;dead god&quot;. The eight-foot skeleton, shackled by magical iron to a slab in the bowels of their covenant, oozed blood, and slowly grew scraps of flesh. The priests informed their new, and slightly disgusted, sodales, that their essential duty was to peel these new strips of flesh away, lest the god rise from the dead and seek vengeance on the priesthood. Further, they demonstrated that eating the strips of flesh slowed the aging process. Revolted and intrigued, Guernicus established to his satisfaction that the skeleton wasn't diabolic, or a faerie, but some sort of human-shaped magical creature, and therefore outside the protection of the Code.
+
+Parties unknown exterminated the last members of the original priesthood, even though they were converted to a more regular form of Hermetic practice, during the Sundering. Although physical evidence demonstrated that an attempt to break the skeleton's bonds had been made, it was unsuccessful. House Guernicus sealed the site for years as it conducted a fruitless investigation, which delayed consideration of the skeleton's ownership until the Grand Tribunal of 865, when the site was awarded to Sancia filia Sabrina, then an archmage specialized in Perdo Corpus, who formally founded the Longevity Project.
+
+The other major interest of this covenant stems from a hobby of one of the Verditius consultants engaged here during the Eleventh Century. A keen student of Aquam magic, he founded a little lineage of Verditius magi fascinated by hydraulics.
+
+After gaining access to the Greek texts in Valnastium, this group have developed steam and water-powered machines far in advance of those found elsewhere in Europe. The covenant gets much of its motive power from an overshot wheel that turns invisibly within the waterfall that curtains the covenant entrance.
+
+<blockquote><span id="longevity-specialists"></span>

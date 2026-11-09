@@ -1,0 +1,13 @@
+<span id="level-10-14"></span>
+- [[Books/Core/09 - Spells/Ignem Spells/Perdo Ignem Spells/LEVEL 10]]
+- [[Gloom of Evening]]
+- [[Winter's Icy Touch]]
+- [[Books/Core/09 - Spells/Ignem Spells/Perdo Ignem Spells/LEVEL 20]]
+- [[Soothe the Raging Flames]]
+- [[Books/Core/09 - Spells/Ignem Spells/Perdo Ignem Spells/LEVEL 25]]
+- [[Well without Light]]
+- [[Conjuration of the Indubitable Cold]]
+- [[Books/Core/09 - Spells/Ignem Spells/Perdo Ignem Spells/LEVEL 30]]
+- [[Wizard's Icy Grip]]
+- [[Books/Core/09 - Spells/Ignem Spells/Perdo Ignem Spells/LEVEL 35]]
+- [[Wizard's Eclipse]]

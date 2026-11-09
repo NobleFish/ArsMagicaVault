@@ -1,0 +1,9 @@
+Magi who choose investiture via the Avenue of Death undergo a ritual, supervised by the most senior magus on this path. They lose the ability to use the Creo Art in conjunction with any Forms save Corpus and Vim. They have drawn themselves so far from harmony that they simply cannot use it any longer. The creation of magical energy channels strife, and concern with the well-being of the bodies of others, particularly the magus’s spouse, is transgressive to this path. The details of this ritual are kept private, and not all supplicants survive it.
+
+This extreme degree of investiture in the power of strife allows magi to draw the capacity to manipulate strife out of objects, creatures, and some people. Magical items become mundane when this power is used upon them. Vis becomes a natural example of whatever shape it has. This power does not affect mundane items that are the targets of spells, so while it can destroy an enchanted sword that burns on command, it cannot harm a normal sword made to burn by a spellcaster. For warded objects, this power has a Penetration score of (Enigmatic Wisdom x 5), with a Form of Corpus.
+
+Some creatures have no mundane equivalent, and these are transformed into symbolic objects. A giant might become a hill that looks vaguely like a sleeping man. A dragon might become a storm, or a ring of standing stones, or a volcanic fi ssure, depending on its type and powers. Powerful demons lose the body they are using to appear in the world rather than being destroyed. Faeries become natural objects, dreams, or memories. Representatives of the Divine realm lack strife, so this power cannot affect them.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+- [[Books/Houses/The Mystery Cults/03 - House Criamon/The Path of Strife/Avenue of Death and the Station of Golden Cider/Path Symbolism]]

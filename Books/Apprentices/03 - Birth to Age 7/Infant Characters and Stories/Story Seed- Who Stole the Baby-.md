@@ -1,0 +1,3 @@
+A Gifted baby is stolen from her cradle in the night. The family's hue and cry brings the player characters (all grog-level villagers) in the morning, and the village elder charges the player characters with finding and returning the baby. The trail leads through the nearby woods and into the unknown hills. Is the culprit a troll intent on eating the child, an elf who forgot to leave a changeling replacement, a hedge wizard planning to sacrifice the child, or an Hermetic wizard who plans on raising and training the baby? And which fate is worse?
+</blockquote>
+<blockquote><span id="story-seed-the-curious-cleric"></span>

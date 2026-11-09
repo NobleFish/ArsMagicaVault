@@ -1,0 +1,11 @@
+<span id="general-3"></span>
+- [[Books/Core/09 - Spells/Auram Spells/Rego Auram Spells/GENERAL]]
+- [[Ward against Faeries of the Air]]
+- [[Books/Core/09 - Spells/Auram Spells/Rego Auram Spells/LEVEL 5]]
+- [[Wind at the Back]]
+- [[Books/Core/09 - Spells/Auram Spells/Rego Auram Spells/LEVEL 10]]
+- [[Ward against Rain]]
+- [[Books/Core/09 - Spells/Auram Spells/Rego Auram Spells/LEVEL 30]]
+- [[Clouds of Thunderous Might]]
+- [[Books/Core/09 - Spells/Auram Spells/Rego Auram Spells/LEVEL 40]]
+- [[Gathering of the Stormy Might]]

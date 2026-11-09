@@ -1,0 +1,12 @@
+
+- [[New Creo Guidelines]]
+- [[New Creo Spells]]
+- [[New Intellego Guidelines]]
+- [[New Intellego Spells]]
+- [[New Muto Guidelines]]
+- [[New Muto Spells]]
+- [[New Perdo Guidelines]]
+- [[New Perdo Spells]]
+- [[New Rego Guidelines]]
+- [[New Rego Spells]]
+- [[Books/Realms/The Magic Realm/03 - The Magic Realm/New Magic Realm Spells ~350c9/Attribution]]

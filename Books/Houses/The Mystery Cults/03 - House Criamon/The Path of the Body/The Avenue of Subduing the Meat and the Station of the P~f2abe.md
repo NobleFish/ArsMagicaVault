@@ -1,0 +1,8 @@
+Several ritual investitures assist magi to fi nd the fi rst station of the Path of the Body, each of which is descended from a different tradition of mystics adopted into the early House. Those following this avenue develop control over their bodies’ desires and distractions, usually through painful mortifications, or fatiguing exertions, that last a year. A handful of magi have followed this avenue by being transformed into plants for a year. The avenue ends with a guide acting as midwife for a symbolic rebirth.
+
+At the first station of the Path of the Body, the magus realizes that the body is the perfect tool for Hermetic magic because it is adapted for magic, and magic, in turn, is adapted for it. The magus’s close inspection of the body allows the development of Minor Potency in an aspect of the Art of Corpus. Magi who have found this station see the intrinsic links between the body and the magical energies it wields, and so can use their understanding of magical events to minister to the body. They may use Enigmatic Wisdom in place of Chirurgy and Medicine in rolls. They also know, instinctively, if their body is ill, and where, although they may not know the appropriate treatment.
+
+Initiates of this station are bound by the lifestyle of the House (Vow) and fi nd it more diffi cult to use their magic when their body is ill (Deleterious Circumstances). Some illnesses do not block certain mystical effects; the usual example given is that fevers do not restrict Ignem spells because they are caused by a surplus of fi ery humors. Wounds do not prevent magic use, of themselves, but open the body to infections, which may.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|

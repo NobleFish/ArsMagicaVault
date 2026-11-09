@@ -1,0 +1,25 @@
+# Chapter 04 - The Infernal Legions
+
+## Contents
+
+- [[Books/Realms/The Infernal Realm/04 - The Infernal Legions/Introduction]]
+- [[What are Demons-]]
+- [[The Spiritual Form of a Demon]]
+- [[The Physical Form of a Demon]]
+- [[Demonic Traits]]
+- [[Books/Realms/The Infernal Realm/04 - The Infernal Legions/Demonic Might/Demonic Might]]
+- [[True Names]]
+- [[The Infernal Hierarchy]]
+- [[False Gods]]
+- [[Spirits of Deceit]]
+- [[Vessels of Iniquity]]
+- [[Avengers of Evil]]
+- [[Deluders]]
+- [[Aerial Powers]]
+- [[Furies]]
+- [[Accusers]]
+- [[Tempters & Evil Spirits]]
+- [[Using Demons in Your Saga]]
+- [[A Life Lacking in Virtue]]
+- [[Human Assistance]]
+- [[The Role of Demons]]

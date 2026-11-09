@@ -1,0 +1,10 @@
+<span id="general-16"></span>
+- [[Books/Core/09 - Spells/Vim Spells/Rego Vim Spells/GENERAL]]
+- [[Books/Core/09 - Spells/Vim Spells/Rego Vim Spells/Aegis of the Hearth]]
+- [[Circular Ward against Demons]]
+- [[Maintaining the Demanding Spell]]
+- [[Opening the Intangible Tunnel]]
+- [[Suppressing the Wizard's Handiwork]]
+- [[Watching Ward]]
+- [[Books/Core/09 - Spells/Vim Spells/Rego Vim Spells/LEVEL 15]]
+- [[Gather the Essence of the Beast]]

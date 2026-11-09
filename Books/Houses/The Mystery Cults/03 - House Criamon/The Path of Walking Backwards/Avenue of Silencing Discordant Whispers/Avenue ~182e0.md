@@ -1,0 +1,15 @@
+Avenue of Silencing Discordant Whispers and the Threshold of Repose
+
+Characters who come close to the fi nal station on the Path of Walking Backward must contest with a series of spiritual obstacles. These are created — some say — by the last remnants of strife in the magus’s mind, by the striferidden universe, or by a deity who is the incarnation of strife. The obstacles take the form of temptation to seek material power, comfort, sensual experiences, and eternal life.
+
+A magus may gain repose by ascending to rejoin the Spharios, using the great secret of this path. The Spharios is conscious, and remains so throughout its dissolution and recohesion. Magi who do so become one with the mind of the universe, and may carry with them those deserving the same revelation, or evil things to be absorbed and nullifi ed by the sphere. This can include people and creatures, but also the traits of individuals and places. A magus who chooses not to ascend lives as a creature of perfect harmony in a world of strife.
+
+A magus of this station may select his age, gender, and species as often as he wishes, taking only the time of a breath to change. The magus’s human forms appear to be blood relations to each other and there is only one form for each combination of age and sex. Each time the magus chooses, for example, to be a European female in her old age, the magus has the same form. If that magus then chooses to appear as a younger woman, he appears as a younger version of the older form, rather than as a completely different person. Wounds persist regardless of form.
+
+Each magus of this station is permitted to choose the time of his own death. It is impossible for a magus who is proud or afraid of death to reach this state of enlightenment. If the magus does risky things, like engaging in warfare, that is considered a free choice that may lead to death. Magi who achieve this ability usually remain alive for only brief spans required to fi nish symbolic tasks, or else they withdraw to an isolated place and wait — sometimes for centuries — to deliver a particular piece of information or solve a particular problem before ascension. During this delay, they act as teachers.
+
+Some magi dwell on the threshold because they believe their personal role in the great narrative of creation, which the Spharios whispers to itself, is incomplete. Most believe that by acting aptly they can shorten the period of the dissolution, and so cause everything and everyone to have a smaller burden of pain to share through time. These magi believe that their presence in time allows the Spharios to learn to tell its autobiography in a different way than the tale told in the last cycle. The Spharios is learning with each cycle of time, purifying itself, fi nding a way not to fall into strife, and these magi believe their work is vital to that.
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+- [[Books/Houses/The Mystery Cults/03 - House Criamon/The Path of Walking Backwards/Avenue of Silencing Discordant Whispers/Path Symbolism]]

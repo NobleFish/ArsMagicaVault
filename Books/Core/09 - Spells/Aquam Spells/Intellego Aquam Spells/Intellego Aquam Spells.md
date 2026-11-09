@@ -1,0 +1,11 @@
+<span id="level-5-3"></span>
+- [[Books/Core/09 - Spells/Aquam Spells/Intellego Aquam Spells/LEVEL 5]]
+- [[Clear Sight of the Naiad]]
+- [[Subtle Taste of Poison and Purity]]
+- [[Touch of the Pearls]]
+- [[Books/Core/09 - Spells/Aquam Spells/Intellego Aquam Spells/LEVEL 15]]
+- [[Call of the Rushing Waters]]
+- [[Books/Core/09 - Spells/Aquam Spells/Intellego Aquam Spells/LEVEL 25]]
+- [[Voice of the Lake]]
+- [[Books/Core/09 - Spells/Aquam Spells/Intellego Aquam Spells/LEVEL 30]]
+- [[Enchantment of the Scrying Pool]]

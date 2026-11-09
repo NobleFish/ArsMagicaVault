@@ -1,0 +1,10 @@
+<span id="level-5-22"></span>
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Muto Imaginem Spells/LEVEL 5]]
+- [[Taste of the Spices and Herbs]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Muto Imaginem Spells/LEVEL 10]]
+- [[Aura of Ennobled Presence]]
+- [[Notes of a Delightful Sound]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Muto Imaginem Spells/LEVEL 15]]
+- [[Disguise of the Transformed Image]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Muto Imaginem Spells/LEVEL 20]]
+- [[Image Phantom]]

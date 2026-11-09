@@ -1,0 +1,6 @@
+The characters are trying to build something, whether abstract or
+concrete. They might be trying to create the strongest, most vibrant
+covenant in the Order, or a giant flying ship, or bring justice and
+peace to a war-torn area of Europe.
+
+<span id="saga-priorities"></span>

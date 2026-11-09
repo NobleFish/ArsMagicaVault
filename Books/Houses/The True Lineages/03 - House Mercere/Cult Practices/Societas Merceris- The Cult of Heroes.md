@@ -1,0 +1,11 @@
+''The Cult of Mercury includes magi from many different Houses, and is usually found wherever magi practice Mercurian rituals. Within it, or perhaps beside it, there are other smaller groups with similar beliefs and practices, and one of these groups is primarily made up of members of House Mercere. They are known as the Cult of Heroes, and according to them, the great heroes of antiquity still walk the earth. Heracles, Arthur, Beowulf, Gilgamesh — they say these legendary ﬁgures and others like them were descended from the gods, and the Cult of Heroes believes that they can be born again. 
+
+Hero-Cultists seek out exceptional children with supernatural attributes that indicate their divine nature, which they ﬁnd through stories, investigative magic, or otherworldly visions. They then adopt them into the House as Redcaps. If nurtured and supported by the Order, they believe these potential demigods will grow into the power of their predecessors. Such heroes are very rare; there might be three or four of them in all of Mythic Europe, but their origins are obvious as they are especial''
+''ly blessed by nature. They are clearly better than common men and women, and perhaps even superior to magi. 
+
+Requirements: Players who wish to play heroes of the Cult instead of magi must take a special virtue, Blood of Heroes (see the Appendix, Virtues and Flaws), which allows them to take twice as many virtues as ﬂaws during character creation, and also gives them access to other virtues that represent their special connection to the gods. The society also includes normal Redcaps who have an association with the Cult, or who serve one of these heroes. Either type may exchange 10 levels of effects in their starting magic items for a +1 increase to any of their negative Characteristics. Most of them are Pagan (see the Appendix, Virtues and Flaws). 
+
+Magi who belong to the Hero-cult should have either Mythic Blood (which allows them to take Heroic Virtues and Flaws) or Mercurian Magic, and should also be Pagan. They may substitute Mastered Spells for Puissant Art as their free virtue, and can choose from the Cult’s special mastery abilities in addition to those in ArM5 when assigning this experience.''
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|

@@ -1,0 +1,8 @@
+''Harco is located in Piedmont, in the Roman Tribunal, in a small town of the same name very near the borders of the Provencal and Rhine Tribunals. Mercere chose its location for its convenience, not its magical qualities, and it has almost no magical aura. Instead, it is a center for Hermetic commerce, and there is almost constant intercourse between the various Portals, warehouses and storerooms that make up the focus of the Redcap network. Carts bearing valuable goods from distant lands travel from Hibernia to the Holy Land, Novgorod to Iberia. Vis is catalogued and exchanged before being sent back to the different Tribunals’ coffers. Redcaps and records travel to and from the great library at Durenmar in the Rhine. The place is a manor of great wealth and activity, a true crossroads of the Order. 
+
+This giant business is shrewdly managed by Prima Insatella. She is a practical woman, nearly eighty, who has been running the covenant successfully for almost forty years. Her father Mihalyi was the last Primus, who replaced Aldico just after the Schism War, and she grew up knowing that she would probably take over for him when he died. She does not have the Gift and is very withdrawn; she tries not to involve herself in the affairs of magi or the politics of the Tribunal, but instead concentrates on seeing that her House and the covenant run as smoothly as possible. She has a large family, and her second-eldest daughter Maria will probably assume her duties when she dies, as she is her mother’s chief assistant and knows best what needs to be done to keep their organization successful.''
+
+|}
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|

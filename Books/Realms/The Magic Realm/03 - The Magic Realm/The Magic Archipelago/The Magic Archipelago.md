@@ -1,0 +1,11 @@
+Some travelers imagine the Magic Realm as a physical place, part of the world’s sphere that is somehow connected to the rest of Mythic Europe, overlaying it like a giant regio — over it, like a sphere of magic found just below the lunar sphere; or beneath it, as a kind of underworld at the center of the earth; or even beside it, on another end of the globe. Each location in the Magic Realm can be described as an island within a great sea, or perhaps as distant countries separated from each other and the rest of the world by mighty rivers. According to this perspective, the Magic Realm is an enormous chain of these metaphorical islands, called insulae (singular insula). 
+
+Insulae usually appear as places in the mundane world, but supercharged with magical power, like a very strong Magic aura or high-level regio. Some travelers with experience in insulae theorize that the Magic Realm is made up of nothing but a series of high-level Magic regiones where the aura and boundary levels exceed 10, and where the inhabitants are magical creatures that otherwise live as normal human beings, working and praying and making war like other medieval people. 
+
+It is possible for some travelers to navigate the “waters” between insulae, ferrying themselves and others back and forth between islands and between the magic and the mundane worlds. Like sea journeys in the mundane world, these magical journeys are perilous, for strange creatures are said to live in the deep Twilight Void, and all manner of snags and whorls can assail and delay those who risk their lives in the unknown. Those who live in the Magic Realm often have great respect for these “Ferrymen,” as travelers might hear them described. 
+
+The culture of this version of the Magic Realm is remarkably exotic. An insular city might appear extremely foreign, with oddly shaped architecture, strange animals, and very alien ways among its people. Other islands might seem isolated and sparse, dotted with structures built from scavenged materials, and people who have become stranded there or who have been so changed by the power of Magic that they cannot live without it.''
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+- [[Story Seed- South of the Sun]]

@@ -1,0 +1,18 @@
+- Alabaster +2 forgiving, +4 mental acuity
+- Alexandrite +2 regeneration, +5 horses, +3 long life
+- Amethyst +2 wealth, +2 hearing, +3 poisons, +7 drunkenness
+- Basalt +3 Ignem, +3 Perdo
+- Brass +4 demons, devils, and angels; +3 music; +3 Ignem
+- Bronze +3 Terram, +5 darkness
+- Cinnabar +5 dragons, +4 wealth, +4 language, +3 long life
+- Copper +4 deftness, +4 effects that change its own shape, +2 sex magic
+- Electrum +3 scrying, +4 Muto Terram, +3 deception
+- Garnet +3 bonds of commitment, +2 vigor, +2 navigation
+- Glass, Clear +4 invisibility, +5 seeing through something
+- Granite +2 wealth, +3 Terram
+- Ivory +5 healing
+- Marble +5 wards, +3 Beauty
+- Mercury +3 Terram and Aquam, +5 Muto
+- Platinum +4 Air
+- Sulphur +2 preserving or decaying, +4 demons
+- Turquoise +4 necromancy

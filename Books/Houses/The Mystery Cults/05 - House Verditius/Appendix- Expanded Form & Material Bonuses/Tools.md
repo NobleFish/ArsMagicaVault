@@ -1,0 +1,26 @@
+- Auger +2 shape wood, puncture wood
+- Adze +2 beautify wood structures
+- Basket +2 collect and preserve items
+- Billhook +2 pruning
+- Cask +3 induce drunkenness
+- Cleaver +2 butchery, +3 Perdo
+- Animal Cloth Shears +2 shaping fabrics
+- Crowbar +2 moving stone
+- Dividers +2 measuring
+- Flail +3 harvesting grain
+- Hatchet +4 destroy wood
+- Handsaw +3 delicately shape wood
+- Mallet +2 precision
+- Manacles +4 binding
+- Mason Chisel +2 shape stone
+- Pitch Fork +2 gathering reaped grain
+- Scales +3 weighing goods and money
+- Sharp Blade +2 shape leather
+- Shearing Shears +2 fl eecing
+- Sickle +2 harvesting
+- Scythe +3 reaping, +3 year-duration effects, +4 effects expressly
+  causing death Small
+- Hammer +2 building
+- Snip +2 shape metal
+- Trowel +2 building
+- Tongs +2 controlling metal Spade +2 move earth''

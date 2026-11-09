@@ -1,0 +1,10 @@
+<span id="level-5-4"></span>
+- [[Books/Core/09 - Spells/Aquam Spells/Perdo Aquam Spells/LEVEL 5]]
+- [[Comfort Of The Drenched Traveler]]
+- [[Books/Core/09 - Spells/Aquam Spells/Perdo Aquam Spells/LEVEL 20]]
+- [[Parching Wind]]
+- [[Books/Core/09 - Spells/Aquam Spells/Perdo Aquam Spells/LEVEL 25]]
+- [[Closing the Earth's Gate]]
+- [[Curse of the Desert]]
+- [[Books/Core/09 - Spells/Aquam Spells/Perdo Aquam Spells/LEVEL 50]]
+- [[Calling the Odious Drought]]

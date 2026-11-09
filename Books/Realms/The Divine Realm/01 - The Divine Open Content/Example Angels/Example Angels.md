@@ -1,0 +1,12 @@
+<span id="asuryal-herald-of-deliverance"></span>
+- [[Asuryal, Herald of Deliverance]]
+- [[Azrael, the Archangel of Death]]
+- [[Camuel, the Dark Angel]]
+- [[Eiael, Aid to the Wise]]
+- [[Books/Realms/The Divine Realm/01 - The Divine Open Content/Example Angels/Gabriel, the Archangel of Prophecy]]
+- [[Books/Realms/The Divine Realm/01 - The Divine Open Content/Example Angels/Kolazonta, the Chastiser]]
+- [[St. Michael, Captain of the Lord's Host]]
+- [[Midael, Captain of the Celestial Army]]
+- [[Munkar and Nakir, the Questioners]]
+- [[Nasir, the Helper]]
+- [[Samuil, Angelic Guide]]

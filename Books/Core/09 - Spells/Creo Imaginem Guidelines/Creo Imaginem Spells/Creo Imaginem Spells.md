@@ -1,0 +1,12 @@
+<span id="level-10-16"></span>
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Creo Imaginem Spells/LEVEL 10]]
+- [[Phantasm of the Talking Head]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Creo Imaginem Spells/LEVEL 20]]
+- [[Phantasmal Animal]]
+- [[Phantasmal Fire]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Creo Imaginem Spells/LEVEL 25]]
+- [[Phantasm of the Human Form]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Creo Imaginem Spells/LEVEL 35]]
+- [[Haunt of the Living Ghost]]
+- [[Books/Core/09 - Spells/Creo Imaginem Guidelines/Creo Imaginem Spells/LEVEL 40]]
+- [[The Shadow of Human Life]]
