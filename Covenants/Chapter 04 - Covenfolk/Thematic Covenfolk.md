@@ -1,6 +1,0 @@
-In addition to serving and providing the economic base of the covenant, it is possible for grogs to define a secondary theme for the covenant. For example, the covenant may have resident ghosts in a high Magic aura, or the magi may magically bind the spirits of deceased grogs as wardens. The magi may be involved in Hermetic politics and employ spies, thieves (“burglars”), and political agents; or they may have a religious or academic affiliation and employ (or at least provide residence for) scholars, scribes, or clergy. A covenant with strong links to a faerie forest would be well advised to acquire at least some covenfolk with faerie gifts or faerie blood; indeed, magi with a practical bent and an eye for the future may set out to breed such grogs.
-
-For added personality, a covenant which makes extensive use of enchanted devices to aid, enhance, or replace grogs may have had most of the devices manufactured by a single magus (stereotypically a Verditius magus, but quite possibly one from some other House) with a pronounced quirk to her style. She might fashion all of her devices in the form of gargoyles, for example, or domestic fowl, or as abstract colored spheres.
-
-{|style="border-style: solid; border-width: 3px; border-color: chocolate"
-|style="padding-left: 7px; padding-right: 7px"|

@@ -1,3 +1,0 @@
-An infant character passes the day playing with a household item that her family values: perhaps the family's only ladle, her father's favorite shovel, or her mother's silver necklace. Summoned for supper, the child leaves it outside and doesn't remember leaving it behind until later, while lying in bed for the night. Fearful of the repercussions, the infant slips out of bed and dashes off to where she last saw the item. It is gone. Did faeries take it? Another child? Or did her father or mother pick it up, meaning a wake-up whipping is waiting? The child wakes his siblings, and perhaps sympathetic adults (a nanny or other covenfolk), and a midnight hunt for the item begins.
-</blockquote>
-<blockquote><span id="story-seed-who-stole-the-baby"></span>

@@ -1,4 +1,0 @@
-The characters negotiate with others to get what they want, or to help
-their allies get what they want.
-
-<span id="creation"></span>

@@ -1,5 +1,0 @@
-Tremere thinking, art and literature praise the ethos of the wolf pack. Wolves are gentle with each other and savage to their enemies. They serve their families, particularly the dominant pair, and aid in the raising of their lair mates’ cubs. The Dacians, from the word daoi meaning “wolves”, ruled Transylvania before the Romans came, and went to war behind wolf-headed dragon banners. Tremere’s familiar was a white wolf, of a pack sacred to Hermes. Familiars lead the packs about Coeris and many of the other House covenants. Odd rumors circulate concerning the House’s link to wolves. Some say that Tremere magi know the ritual of Mount Lycaeon, which turns men into wolves for nine years, and use it upon rebellious Housemates to adjust their attitude. Some claim that werewolves serve the House, others that the House’s servants are equipped with items that change their shapes. Many believe the white wolves of the forest are Tremere spies and saboteurs.
-
-{|style="border-style: solid; border-width: 3px; border-color: chocolate"
-|style="padding-left: 7px; padding-right: 7px"|
-- [[Key Facts]]

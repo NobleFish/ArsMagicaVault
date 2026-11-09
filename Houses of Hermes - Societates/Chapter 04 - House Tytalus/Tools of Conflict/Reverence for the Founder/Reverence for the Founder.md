@@ -1,7 +1,0 @@
-There is a general belief among his followers that Tytalus was the most perfect mortal being the world has seen. Bonisagus might have been more intelligent, Flambeau more powerful, and Merinita more wise, but Tytalus was a polymath who embodied all these traits and more. Tytalan magi are hungry for new stories about the Master that they have not yet heard, and are keen extemporizers of his myth, often plagiarizing other legends to make Tytalus the hero. The intent is not to deceive, but to inform. The twisted moral tales used to instruct apprentices into the correct behavior of the House usually have Tytalus as the protagonist, Guernicus as his co-conspirator, and Tremere as the dupe.
-
-Some take this hero worship to extremes, making visits to places known to be important to Tytalus, even making pilgrimages to the Maddenhofen Woods in Bohemia where he met his end. Dogs are popular pets and familiars in the House, because Tytalus himself had a dog familiar (although no-one risks calling her dog Tremere, like that of the Founder!). But the most obvious manifestation of this cult of personality is the devotion of the House to the Analects of Tytalus, his collected writings, recorded speeches and sayings, spanning his entire life. Virtually every member of the House owns a copy of this tome.
-
-{|style="border-style: solid; border-width: 3px; border-color: chocolate"
-|style="padding-left: 7px; padding-right: 7px"|
-- [[Rumors]]

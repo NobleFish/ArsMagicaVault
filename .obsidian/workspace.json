@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "498d0f00aed37b1b",
+        "id": "095667186d748cfb",
         "type": "tabs",
         "children": [
           {
-            "id": "5eef2732e20f5d42",
+            "id": "aae56969defc501e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Books/Core/05 - Abilities/05 - Abilities.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "05 - Abilities"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Books/Core/05 - Abilities/05 - Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,43 +187,43 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5eef2732e20f5d42",
+  "active": "aae56969defc501e",
   "lastOpenFiles": [
-    "Resume.md",
-    "TODO.md",
-    "Ars Magica 5th Core - Definitive/Chapter 04 - Virtues and Flaws/Chapter 04 - Virtues and Flaws.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Spirit Votary.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Personality Traits/Personality Traits.md",
-    "Ars Magica 5th Core - Definitive/Chapter 15 - Stories/General Considerations/Climaxes.md",
-    "Ars Magica 5th Core - Definitive/Chapter 01 - Introduction/Chapter 01 - Introduction.md",
-    "Ars Magica 5th Core - Definitive/Chapter 09 - Spells/Mentem Spells/Creo Mentem Guidelines.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Character Basics/Confidence/Getting New Confidence Points.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Nephilim.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Sin-Eating.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Faerie Doctors/Faerie Doctors as Mythic Companions.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Faerie Doctors/Faerie Doctors.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Devil Child.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Mythic Companions/Mythic Companions.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Characters with Might Scores.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Option- Extremely Complex Character Generation.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Example- Darius of Flambeau (1).md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Equipment.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Confidence.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Reputations.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Personality/Example- Darius of Flambeau (1).md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Personality/Example- Darius of Flambeau.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Personality/Personality.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Abilities/Older Characters.md",
-    "Ars Magica 5th Core - Definitive/Chapter 03 - Characters/Detailed Character Creation/Abilities/Example- Darius of Flambeau (2).md",
-    "House of Hermes - Mystery",
-    "Untitled.base",
-    "Houses of Hermes - True Lineages/Chapter 05 - True Lineages Timeline",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Symbols/Wolves",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Varieties of Ghost/Animals",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Styles of Certamen/Laquerius",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/Specialist Roles/Physicians",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/The House After Tremere",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/The Final Founder",
-    "Houses of Hermes - True Lineages/Chapter 04 - House Tremere/History/Mortal Affairs"
+    "Books/Core/07 - Hermetic Magic/The Gift/Established Relationships/An Inn.md",
+    "Books/Core/07 - Hermetic Magic/The Gift/Established Relationships/A Monastery.md",
+    "Books/Core/07 - Hermetic Magic/Spellcasting Options/Spontaneous Spells/Fast Casting.md",
+    "Books/Core/07 - Hermetic Magic/Spellcasting Options/Spontaneous Spells/Ceremonial Casting.md",
+    "Books/Core/07 - Hermetic Magic/Spellcasting Options/Non-Ritual Spells/Words and Gestures.md",
+    "Books/Core/07 - Hermetic Magic/Spell Mastery/Mastered Spell Special Abilities/Multiple Casting.md",
+    "Books/Core/07 - Hermetic Magic/Spell Mastery/Mastered Spell Special Abilities/Magic Resistance.md",
+    "Books/Core/07 - Hermetic Magic/Spell Mastery/Mastered Spell Special Abilities/Imperturbable Casting.md",
+    "Books/Core/07 - Hermetic Magic/Mysteries/Merinita — Faerie Magic/Illusion Mysteries.md",
+    "Books/Core/07 - Hermetic Magic/Mysteries/Merinita — Faerie Magic/Faerie Magic.md",
+    "Books/Core/07 - Hermetic Magic/Mysteries/Merinita — Faerie Magic/Charms.md",
+    "Books/Core/07 - Hermetic Magic/Mysteries/Criamon — The Enigma/Initiation of The Avenue of Subduing the Meat, Which Reaches the ~1c950.md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Personality/Example- Darius of Flambeau.md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Personality/Example- Darius of Flambeau (1).md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Option- Extremely Complex Character Generation.md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Magi Only- Hermetic House/Hermetic Houses Summary.md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Magi Only- Hermetic House/Example- Darius of Flambeau.md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Example- Darius of Flambeau.md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Example- Darius of Flambeau (1).md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Equipment.md",
+    "Books/Core/03 - Characters/Detailed Character Creation/Characters with Might Scores.md",
+    "Books/Core/03 - Characters/Character Templates/Magus Templates/Verditius.md",
+    "Books/Core/03 - Characters/Character Templates/Magus Templates/Tytalus.md",
+    "Books/Core/03 - Characters/Character Templates/Magus Templates/Tremere.md",
+    "Books/Core/03 - Characters/Character Templates/Magus Templates/Merinita.md",
+    "Books/Core/03 - Characters/Character Templates/Magus Templates/Mercere.md",
+    "trash/Vault Migration Manifest.csv",
+    "trash/output.txt",
+    "trash",
+    "New folder",
+    "Vault Migration Manifest.csv",
+    "Books/Tribunals/The Greater Alps Tribunal/01 - ~d3c55/Twilight's Gift/Where Have All the Armageddons Gone-",
+    "Books/Tribunals/The Greater Alps Tribunal/01 - ~d3c55/The Motherhouse/Kentigern's Spells",
+    "Books/Tribunals/The Greater Alps Tribunal/01 - ~d3c55/The Motherhouse/Kentigern of Ex Miscellanea, Quaesitor",
+    "Books/Tribunals/The Greater Alps Tribunal/01 - ~d3c55/The Motherhouse/Athena Alpina foll~da1e2",
+    "Books/Tribunals/The Greater Alps Tribunal/01 - ~d3c55/The Alpine Hermetic Year/October"
   ]
 }

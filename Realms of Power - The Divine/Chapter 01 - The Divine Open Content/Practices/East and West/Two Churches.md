@@ -1,5 +1,0 @@
-Both the Eastern patriarch and the pope have had spiritual authority over Byzantium in the past, which means that if both of them exerted their holy influence over the same aura and tempered it (most likely by delegating spiritual authority to an intermediary in the case of the pope; see Blessed by God, Holy Influence), the Dominion would become conflicted and great confusion would reign in the East. Perhaps this the source of much of the conflict in the East between the two Churches.
-
-The divide between Eastern and Western Churches is also evident in the different feel of the Dominion; characters familiar with one will recognize that something has changed when they experience the other. The Eastern Divine is slightly more traditional, more mystical, and the services feel like a strange dream or holy vision. To Easterners, the West seems more real, vibrant, and awe-inspiring; it is definite, modern, and authoritative.
-</blockquote>
-<blockquote><span id="militant-orders-call-to-crusade"></span>

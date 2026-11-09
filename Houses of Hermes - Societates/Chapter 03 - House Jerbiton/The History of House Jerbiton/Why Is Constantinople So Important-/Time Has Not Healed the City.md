@@ -1,4 +1,0 @@
-Constantinople had been controlled by non-Romans before, but these Emperors married into the local nobility, took their place in the elaborate rituals of the court, and defended the City. Constantinople healed, and its culture continued. This has not followed the sack of the City during 1204. The Latin Empire was instead created by crusaders who cared only for what they could take. The current Latin Emperor is more interested in the wellbeing of his home, Flanders, than in the City, because it is clear that his Empire is nominal, and that it is the weakest of the four powers feuding for control the Balkans (the other three being the Kingdom of Bulgaria, the Imperial court in exile at Nicea, and the Despotate of Epirus).
-
-{|style="border-style: solid; border-width: 3px; border-color: chocolate"
-|style="padding-left: 7px; padding-right: 7px"|

@@ -1,5 +1,0 @@
-
-## Contents
-
-- [[Introduction]]
-- [[Attribution]]

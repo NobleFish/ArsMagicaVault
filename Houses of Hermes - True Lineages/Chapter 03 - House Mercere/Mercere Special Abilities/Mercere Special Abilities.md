@@ -1,3 +1,0 @@
-
-- [[Mercurian Magi]]
-- [[Mutantes]]

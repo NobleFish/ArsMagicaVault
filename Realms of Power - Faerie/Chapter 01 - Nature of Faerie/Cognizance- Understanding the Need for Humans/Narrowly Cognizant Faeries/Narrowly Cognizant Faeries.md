@@ -1,5 +1,0 @@
-Some faeries are aware that they feed on human vitality, but understand only a single, narrow mechanism for harvesting it. Take, for example, a faerie wife who deliberately drains the life of her husband away so that she is able to bear a child. She is far more cognizant of her nature than the faerie queen above. Other faeries instinctively reenact variations on a single story. They are unable to consider why this particular series of events provides them the greatest sense of well-being, though. Narrowly cognizant faeries are aware that they need something from humans, and are usually aware that their bodies are made of enchanted matter. They are able to use their powers strategically, and their memories persist if they create a replacement body. They cannot, however, seek to improve themselves in the way that highly cognizant fairies do. Narrowly cognizant faeries are less common than incognizant faeries.
-
-{|style="border-style: solid; border-width: 3px; border-color: chocolate"
-|style="padding-left: 7px; padding-right: 7px"|
-- [[Where Did Faeries Come From-]]

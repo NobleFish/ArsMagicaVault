@@ -1,6 +1,0 @@
-Some covenants implement stiff regimes of discipline and do not concern themselves with loyalty. A rigorous program of punishment is likely to cause Loyalty Point loss, but a corresponding increase in overall discipline as covenfolk attempt to avoid future punishment. Conversely, an over-indulgent council that lavishes their staff with money or drink might improve their sense of devotion, but damage their tendency to carry out their orders.
-
-If appropriate, Prevailing Discipline may be tracked in an identical way to Prevailing Loyalty. Each action that would normally affect loyalty points should be judged according to the effects that it has on both Loyalty and Discipline, and applied where appropriate. Maintaining Prevailing Discipline requires all specialists managing the covenfolk to use Leadership rather than their Profession Ability to maintain order. If Prevailing Discipline is tracked separately from Prevailing Loyalty, then it may modify rolls related to the duties of the covenfolk. For example, Prevailing Discipline may adjust the Awareness of grogs on watch. However, keeping track of Discipline Points separately from loyalty points is more complicated, and should only be considered where the two are dramatically different.
-
-{|style="border-style: solid; border-width: 3px; border-color: chocolate"
-|style="padding-left: 7px; padding-right: 7px"|

@@ -1,6 +1,0 @@
-'This is the highest rank to which player characters are likely to aspire. The origin of the title is lost in the mists of time but is sometimes given as Perseus. Robed in silver, and wearing the sign of Taurus, the Persian is almost always the senior member of the Legion in the Tribunal, and acts as a general. He carries a symbolic sickle made of silver, and the Initiation to this rank usually calls for the sacrifice of the magus’s existing talisman, so he can enchant the sickle as a replacement. The Persian is always Initiated into the mystery of '''spirit familiars''', and fully understands many secrets that cannot be made plain here, but are left to the storyguide’s devising. 
-
-The Persian has considerable influence over the members of the Legion, and is invited to the inner rites of the Legion held at the Great Temple, where he will meet those of the sixth rank, both the seven members of the rank of Heliodromus, clad in golden robes, and the Father, clad entirely in Black, who some whisper has long since left this world and remains only as a '''Living Ghost''', forever chained to the temple by duty that extends far beyond death.
-
-{|style="border-style: solid; border-width: 3px; border-color: chocolate"
-|style="padding-left: 7px; padding-right: 7px"|

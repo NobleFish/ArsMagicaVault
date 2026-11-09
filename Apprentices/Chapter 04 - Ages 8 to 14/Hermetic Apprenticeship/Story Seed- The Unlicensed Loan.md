@@ -1,3 +1,0 @@
-An apprentice character desires to read a tome written about a particular Art. However, the covenant has ruled that an apprentice may only study a book in the library once a year, and the apprentice has already been allowed this privilege. His parens suggests that the apprentice might have to take matters into his own hands, and promises to turn a blind eye to any strategies the youth might concoct, provided no one is hurt and nothing is destroyed. Maybe the apprentice could sneak into the library at night and replace the book with a lookalike, providing he can bypass the librarian's magical guardian night owl.
-</blockquote>
-<blockquote><span id="tales-of-wondrous-enchantments"></span>

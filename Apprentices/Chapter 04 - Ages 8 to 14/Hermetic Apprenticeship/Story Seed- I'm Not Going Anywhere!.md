@@ -1,3 +1,0 @@
-Magi like to think that returning to the covenant with a Gifted child in tow is easy. Storywise, it is only if you want it to be. Most likely, the child is meeting the magus for the first time and reacts negatively to his Gift. Escape, not accompaniment, is a likely first thought. An interesting initial adventure might be for the player characters to return to the covenant with a Gifted player character child. The child does everything possible to escape, while the other players act to contain the child without hurting her. This could be especially fun if the other player characters are grogs or companions, and do not have the necessary magical means to easily transport the child.
-</blockquote>
-<blockquote><span id="hermetic-terminology"></span>

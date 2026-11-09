@@ -1,3 +1,0 @@
-An adolescent son of a martial grog hears of a terrifying forest faerie whose role is to challenge a young man to combat, as a necessary step to that man's adulthood. Not understanding the role of faeries and assuming that there is no real threat, the boy decides to corral his adolescent companions into going with him to face the monster. The monster, a variant of a Fachan (''Realms of Power: Faerie'', page 77), expects to be killed by a champion's blade, but only after a fierce struggle. It is a deadly combatant and the creature will happily kill a novice warrior. Can the boys defeat the faerie or must they return home and ask for help?
-</blockquote>
-<blockquote><span id="story-seed-wheres-the-money"></span>
